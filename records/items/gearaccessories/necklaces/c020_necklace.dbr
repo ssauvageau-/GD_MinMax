@@ -1,8 +1,0 @@
-Stormcaller's Gem,
-levelRequirement = 24, 
-offensiveLightningMax = 9, 9, 9, 
-offensiveLightningMin = 1, 1, 1, 
-offensiveLightningModifier = 11, 11, 11, 
-retaliationLightningMax = 55, 55, 55, 
-retaliationLightningMin = 1, 1, 1, 
-retaliationTotalDamageModifier = 25, 25, 25, 

@@ -1,8 +1,0 @@
-Calamity,
-characterOffensiveAbility = 35, 35, 35, 
-levelRequirement = 18, 
-offensiveFireModifier = 12, 12, 12, 
-offensivePhysicalMax = 6, 6, 6, 
-offensivePhysicalMin = 2, 2, 2, 
-offensivePhysicalModifier = 50, 50, 50, 
-offensivePhysicalModifierChance = 5, 5, 5, 

@@ -1,7 +1,0 @@
-Bloodreaper's Mark,
-levelRequirement = 30, 
-offensiveLifeLeechMin = 3, 3, 3, 
-offensivePierceModifier = 17, 17, 17, 
-offensiveSlowBleedingDurationMin = 3, 3, 3, 
-offensiveSlowBleedingMin = 5, 5, 5, 
-offensiveSlowBleedingModifier = 12, 12, 12, 

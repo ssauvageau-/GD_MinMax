@@ -1,7 +1,0 @@
-Incendiary Casque,
-defensiveFire = 20, 20, 20, 
-levelRequirement = 18, 
-offensiveFireMax = 5, 5, 5, 
-offensiveFireMin = 2, 2, 2, 
-offensiveFireModifier = 8, 8, 8, 
-offensiveSlowFireModifier = 8, 8, 8, 

@@ -1,8 +1,0 @@
-Menhir's Bastion,
-characterArmorStrengthReqReduction = 10, 10, 10, 
-defensiveBleedingDuration = 50, 50, 50, 
-defensiveBlockAmountModifier = 30, 30, 30, 
-defensiveBlockModifier = 4, 4, 4, 
-defensivePhysical = 5, 5, 5, 
-defensivePierce = 55, 55, 55, 
-levelRequirement = 70, 

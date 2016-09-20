@@ -1,8 +1,0 @@
-Golemfist Gavel,
-defensivePhysical = 12, 12, 12, 
-levelRequirement = 31, 
-offensivePhysicalMax = 294, 294, 294, 
-offensivePhysicalMin = 72, 72, 72, 
-offensivePhysicalModifier = 45, 45, 45, 
-offensiveSlowPhysicalDurationMin = 5, 5, 5, 
-offensiveSlowPhysicalMin = 22, 22, 22, 

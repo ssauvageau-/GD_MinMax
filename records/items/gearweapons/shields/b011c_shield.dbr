@@ -1,6 +1,0 @@
-Fleshwarped Shield,
-characterLifeRegen = 8, 8, 8, 
-defensiveBlock = 550, 550, 550, 
-defensiveBlockChance = 30, 30, 30, 
-levelRequirement = 50, 
-offensivePhysicalMin = 90, 90, 90, 

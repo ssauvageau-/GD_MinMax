@@ -1,6 +1,0 @@
-Guile,
-characterDexterityModifier = 4, 4, 4, 
-characterDodgePercent = 2, 2, 2, 
-levelRequirement = 25, 
-offensivePierceMin = 5, 5, 5, 
-offensivePierceModifier = 10, 10, 10, 

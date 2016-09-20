@@ -1,7 +1,0 @@
-Fortress,
-characterLifeModifier = 6, 6, 6, 
-characterStrength = 48, 48, 48, 
-defensivePhysical = 5, 5, 5, 
-defensiveProtectionModifier = 15, 15, 15, 
-levelRequirement = 35, 
-retaliationTotalDamageModifier = 25, 25, 25, 

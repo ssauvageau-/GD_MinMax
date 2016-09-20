@@ -1,8 +1,0 @@
-Defender of Devil's Crossing,
-characterDefensiveAbility = 35, 35, 35, 
-defensiveBlock = 225, 225, 225, 
-defensiveBlockChance = 26, 26, 26, 
-defensiveElementalResistanceChance = 15, 15, 15, 
-defensiveProtectionModifier = 10, 10, 10, 
-levelRequirement = 17, 
-offensivePhysicalMin = 60, 60, 60, 

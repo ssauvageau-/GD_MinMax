@@ -1,7 +1,0 @@
-Occult Horn,
-characterManaRegenModifier = 50, 50, 50, 
-levelRequirement = 15, 
-offensiveLifeModifier = 12, 12, 12, 
-offensiveSlowPoisonDurationMin = 5, 5, 5, 
-offensiveSlowPoisonMin = 4, 4, 4, 
-offensiveSlowPoisonModifier = 25, 25, 25, 

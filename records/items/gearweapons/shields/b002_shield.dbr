@@ -1,8 +1,0 @@
-Spectral Shield,
-defensiveBlock = 252, 252, 252, 
-defensiveBlockChance = 26, 26, 26, 
-levelRequirement = 20, 
-offensiveLifeMin = 28, 28, 28, 
-offensivePhysicalMin = 38, 38, 38, 
-retaliationLifeMin = 63, 63, 63, 
-retaliationTotalDamageModifier = 10, 10, 10, 

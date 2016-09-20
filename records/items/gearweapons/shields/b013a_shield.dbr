@@ -1,8 +1,0 @@
-Bernard's Slightly-Chewed Buckler,
-defensiveBlock = 65, 65, 65, 
-defensiveBlockChance = 18, 18, 18, 
-defensivePoison = 15, 15, 15, 
-levelRequirement = 6, 
-offensivePhysicalMin = 34, 34, 34, 
-offensivePhysicalModifier = 8, 8, 8, 
-offensiveSlowPhysicalModifier = 8, 8, 8, 

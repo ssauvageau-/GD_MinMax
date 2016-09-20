@@ -1,7 +1,0 @@
-Bloodseal,
-characterLifeRegen = 8, 8, 8, 
-characterOffensiveAbility = 25, 25, 25, 
-levelRequirement = 14, 
-offensiveSlowBleedingDurationMin = 3, 3, 3, 
-offensiveSlowBleedingMin = 4, 4, 4, 
-offensiveSlowBleedingModifier = 15, 15, 15, 
