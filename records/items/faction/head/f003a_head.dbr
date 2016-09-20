@@ -1,0 +1,8 @@
+Devil's Headguard,
+attributeScalePercent = 20.000000, 
+characterLife = 176, 220, 264, 
+characterOffensiveAbility = 9.61, 12, 14.4, 
+levelRequirement = 35, 
+offensivePhysicalModifier = 12, 15, 18, 
+offensiveSlowPhysicalModifier = 12, 15, 18, 
+retaliationTotalDamageModifier = 12, 15, 18, 

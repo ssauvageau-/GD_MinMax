@@ -1,0 +1,6 @@
+of the Wraith,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 64, 
+offensiveSlowManaLeachChance = 28.05, 33, 37.95, 
+offensiveSlowManaLeachDurationMin = 1.7, 2, 2.3, 
+offensiveSlowManaLeachMin = 22.1, 26, 29.9, 

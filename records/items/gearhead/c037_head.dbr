@@ -1,0 +1,7 @@
+Templar's Headguard,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 28, 40, 52, 
+characterLife = 280, 400, 520, 
+defensiveFire = 42, 60, 78, 
+defensiveStun = 14, 20, 26, 
+levelRequirement = 58, 

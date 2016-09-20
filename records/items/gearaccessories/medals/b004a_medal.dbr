@@ -1,0 +1,7 @@
+Kymon's Badge,
+attributeScalePercent = 20.000000, 
+characterWeaponStrengthReqReduction = 12, 15, 18, 
+defensiveChaos = 20, 25, 30, 
+levelRequirement = 30, 
+offensiveFireModifier = 9.61, 12, 14.4, 
+offensiveLightningModifier = 9.61, 12, 14.4, 

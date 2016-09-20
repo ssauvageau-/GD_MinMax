@@ -1,0 +1,5 @@
+Viloth's Ring,
+characterOffensiveAbility = 33, 33, 33, 
+levelRequirement = 55, 
+offensivePoisonMin = 7, 7, 7, 
+offensivePoisonModifier = 22, 22, 22, 

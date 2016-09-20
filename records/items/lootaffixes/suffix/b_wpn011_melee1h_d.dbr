@@ -1,0 +1,8 @@
+of Ruthlessness,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 4.25, 5, 5.75, 
+characterDexterity = 23.8, 28, 32.2, 
+levelRequirement = 57, 
+offensivePierceChance = 8.5, 10, 11.5, 
+offensivePierceMin = 37.4, 44, 50.6, 
+offensivePierceModifier = 31.45, 37, 42.55, 

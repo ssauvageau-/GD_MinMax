@@ -1,0 +1,6 @@
+Wrath of the Ascendant,
+attributeScalePercent = 30.000000, 
+characterLife = 168, 240, 312, 
+characterSpellCastSpeedModifier = 14, 20, 26, 
+levelRequirement = 65, 
+offensiveAetherModifier = 77, 110, 143, 

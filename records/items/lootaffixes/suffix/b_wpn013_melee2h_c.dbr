@@ -1,0 +1,8 @@
+of Fury,
+lootRandomizerJitter = 18.000000, 
+characterAttackSpeedModifier = 17.23, 21, 24.78, 
+characterOffensiveAbility = 20.5, 25, 29.5, 
+characterSpellCastSpeedModifier = 11.48, 14, 16.52, 
+characterTotalSpeedModifier = 2.46, 3, 3.54, 
+levelRequirement = 39, 
+offensiveTotalDamageModifier = 13.95, 17, 20.06, 

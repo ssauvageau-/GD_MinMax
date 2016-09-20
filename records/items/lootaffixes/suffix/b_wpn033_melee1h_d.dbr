@@ -1,0 +1,7 @@
+of the Arcane Blaze,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 60, 
+offensiveAetherMin = 6.8, 8, 9.2, 
+offensiveAetherModifier = 38.25, 45, 51.75, 
+offensiveFireMin = 6.8, 8, 9.2, 
+offensiveFireModifier = 38.25, 45, 51.75, 

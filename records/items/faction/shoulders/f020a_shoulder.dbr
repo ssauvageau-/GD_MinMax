@@ -1,0 +1,8 @@
+Chosen Mantle,
+attributeScalePercent = 20.000000, 
+characterManaRegen = 0.8, 1, 1.2, 
+defensiveFire = 16, 20, 24, 
+defensiveLightning = 16, 20, 24, 
+levelRequirement = 35, 
+offensiveFireModifier = 16, 20, 24, 
+offensiveLightningModifier = 16, 20, 24, 

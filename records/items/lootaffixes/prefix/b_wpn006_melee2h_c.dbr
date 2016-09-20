@@ -1,0 +1,8 @@
+Bloodthirsty,
+lootRandomizerJitter = 18.000000, 
+levelRequirement = 40, 
+offensiveLifeLeechMin = 3.29, 4, 4.72, 
+offensiveSlowBleedingDurationMin = 2.46, 3, 3.54, 
+offensiveSlowBleedingDurationModifier = 39.36, 48, 56.64, 
+offensiveSlowBleedingMin = 11.48, 14, 16.52, 
+offensiveSlowBleedingModifier = 41, 50, 59, 

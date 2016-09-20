@@ -1,0 +1,8 @@
+Bonecleaver,
+attributeScalePercent = 8.000000, 
+levelRequirement = 20, 
+offensivePhysicalMax = 45.000000, 
+offensivePhysicalMin = 36.000000, 
+offensiveSlowBleedingDurationMin = 2.77, 3, 3.24, 
+offensiveSlowBleedingMin = 11.05, 12, 12.96, 
+offensiveSlowBleedingModifier = 18.41, 20, 21.6, 

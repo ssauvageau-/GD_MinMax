@@ -1,0 +1,8 @@
+Corrosive,
+lootRandomizerJitter = 10.000000, 
+conversionInType = Physical, 
+conversionOutType = Poison, 
+conversionPercentage = 14.4, 16, 17.6, 
+levelRequirement = 70, 
+offensivePoisonMax = 34.2, 38, 41.81, 
+offensivePoisonMin = 18, 20, 22, 

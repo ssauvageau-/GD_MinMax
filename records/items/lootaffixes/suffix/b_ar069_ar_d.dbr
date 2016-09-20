@@ -1,0 +1,6 @@
+of Arcane Might,
+lootRandomizerJitter = 15.000000, 
+characterManaRegen = 1.28, 1.5, 1.73, 
+characterOffensiveAbility = 55.25, 65, 74.75, 
+levelRequirement = 72, 
+offensiveElementalModifier = 21.25, 25, 28.75, 

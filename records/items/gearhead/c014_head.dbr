@@ -1,0 +1,8 @@
+Terror of the Grove,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 4.2, 6, 7.81, 
+levelRequirement = 66, 
+offensivePoisonModifier = 28, 40, 52, 
+offensiveSlowPoisonModifier = 21, 30, 39, 
+retaliationPoisonMin = 129.5, 185, 240.5, 
+retaliationTotalDamageModifier = 35, 50, 65, 

@@ -1,0 +1,8 @@
+Trog Bonewall,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 364, 520, 676, 
+defensiveBlockChance = 20.3, 29, 37.7, 
+levelRequirement = 70, 
+offensiveLifeMin = 14, 20, 26, 
+offensiveLifeModifier = 41.3, 59, 76.7, 
+offensivePhysicalMin = 78.000000, 

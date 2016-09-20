@@ -1,0 +1,7 @@
+Legion Conjuration Seal,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbilityModifier = 1.4, 2, 2.6, 
+characterSpellCastSpeedModifier = 3.5, 5, 6.5, 
+characterStrength = 15.4, 22, 28.6, 
+levelRequirement = 75, 
+offensiveTotalDamageModifier = 14, 20, 26, 

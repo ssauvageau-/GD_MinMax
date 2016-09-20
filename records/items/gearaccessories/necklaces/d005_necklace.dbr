@@ -1,0 +1,7 @@
+The Peerless Eye of Beronath,
+attributeScalePercent = 30.000000, 
+characterLightRadius = 14, 20, 26, 
+characterOffensiveAbility = 66.5, 95, 123.5, 
+defensiveElementalResistance = 10.5, 15, 19.5, 
+levelRequirement = 65, 
+offensiveCritDamageModifier = 7, 10, 13, 

@@ -1,0 +1,8 @@
+of Piercing Darkness,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 34, 40, 46, 
+levelRequirement = 70, 
+offensiveLifeModifier = 38.25, 45, 51.75, 
+offensivePierceMax = 11.05, 13, 14.95, 
+offensivePierceMin = 6.8, 8, 9.2, 
+offensivePierceModifier = 38.25, 45, 51.75, 

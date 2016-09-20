@@ -1,0 +1,5 @@
+Shortsword,
+attributeScalePercent = 8.000000, 
+offensivePhysicalMax = 29.000000, 
+offensivePhysicalMin = 20.000000, 
+offensivePierceRatioMin = 40.000000, 

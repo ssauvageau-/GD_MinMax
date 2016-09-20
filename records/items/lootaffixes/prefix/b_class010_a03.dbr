@@ -1,0 +1,7 @@
+Spellbreaker's,
+lootRandomizerJitter = 15.000000, 
+characterRunSpeedModifier = 2.55, 3, 3.45, 
+characterStrengthModifier = 3.4, 4, 4.6, 
+levelRequirement = 90, 
+offensiveElementalModifier = 13.6, 16, 18.4, 
+offensivePierceModifier = 13.6, 16, 18.4, 

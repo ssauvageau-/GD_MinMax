@@ -1,0 +1,7 @@
+of Valor,
+lootRandomizerJitter = 28.000000, 
+characterDefensiveAbility = 7.2, 10, 12.8, 
+defensiveBlockModifier = 3.6, 5, 6.4, 
+defensiveElementalResistance = 8.64, 12, 15.36, 
+defensiveReflect = 15.84, 22, 28.16, 
+levelRequirement = 10, 

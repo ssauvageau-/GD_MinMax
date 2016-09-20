@@ -1,0 +1,6 @@
+Outcast's Sky Pauldrons,
+attributeScalePercent = 20.000000, 
+defensiveLightning = 16, 20, 24, 
+levelRequirement = 35, 
+offensiveLightningModifier = 16, 20, 24, 
+offensiveSlowLightningModifier = 20, 25, 30, 

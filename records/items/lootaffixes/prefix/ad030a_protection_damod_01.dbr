@@ -1,0 +1,5 @@
+Unbreakable,
+lootRandomizerJitter = 40.000000, 
+characterDefensiveAbilityModifier = 1.8, 3, 4.2, 
+defensiveProtectionModifier = 4.2, 7, 9.8, 
+levelRequirement = 20, 

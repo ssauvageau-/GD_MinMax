@@ -1,0 +1,6 @@
+Soulcarver,
+characterOffensiveAbility = 26, 26, 26, 
+levelRequirement = 30, 
+offensiveLifeLeechMin = 4, 4, 4, 
+offensiveLifeModifier = 60, 60, 60, 
+offensivePercentCurrentLifeMin = 6, 6, 6, 

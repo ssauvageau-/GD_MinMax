@@ -1,0 +1,5 @@
+Poisoned,
+lootRandomizerJitter = 10.000000, 
+levelRequirement = 50, 
+offensiveSlowPoisonDurationMin = 4.5, 5, 5.5, 
+offensiveSlowPoisonMin = 8.1, 9, 9.9, 

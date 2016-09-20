@@ -1,0 +1,6 @@
+Arsonist's,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 65, 
+offensiveFireModifier = 21.25, 25, 28.75, 
+offensiveSlowFireDurationModifier = 12.75, 15, 17.25, 
+offensiveSlowFireModifier = 25.5, 30, 34.5, 

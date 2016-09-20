@@ -1,0 +1,8 @@
+Rhowari Spellweaver Codex,
+attributeScalePercent = 38.000000, 
+characterIntelligence = 9.92, 16, 22.08, 
+characterManaRegen = 2.61, 4.2, 5.8, 
+characterSpellCastSpeedModifier = 4.96, 8, 11.04, 
+levelRequirement = 50, 
+offensiveCritDamageModifier = 4.96, 8, 11.04, 
+offensiveElementalModifier = 20.46, 33, 45.54, 

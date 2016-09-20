@@ -1,0 +1,6 @@
+Elementalist's,
+lootRandomizerJitter = 15.000000, 
+characterIntelligenceModifier = 4.25, 5, 5.75, 
+levelRequirement = 65, 
+offensiveFireModifier = 11.9, 14, 16.1, 
+offensiveLightningModifier = 11.9, 14, 16.1, 

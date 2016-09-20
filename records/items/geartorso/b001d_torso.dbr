@@ -1,0 +1,5 @@
+Murderer's Armor,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 14, 20, 26, 
+characterDeflectProjectile = 5.6, 8, 10.4, 
+levelRequirement = 70, 

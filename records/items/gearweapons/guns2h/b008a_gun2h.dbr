@@ -1,0 +1,8 @@
+Ghavlin's Crossbow,
+attributeScalePercent = 22.000000, 
+levelRequirement = 8, 
+offensivePhysicalMax = 47.000000, 
+offensivePhysicalMin = 26.000000, 
+offensivePierceMin = 4.68, 6, 7.32, 
+offensivePierceModifier = 9.36, 12, 14.64, 
+offensivePierceRatioMin = 40.000000, 

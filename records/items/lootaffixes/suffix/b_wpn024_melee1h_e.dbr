@@ -1,0 +1,7 @@
+of the Elements,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 11.05, 13, 14.95, 
+defensiveReflect = 12.75, 15, 17.25, 
+levelRequirement = 68, 
+offensiveElementalMin = 8.5, 10, 11.5, 
+offensiveElementalModifier = 40.8, 48, 55.2, 

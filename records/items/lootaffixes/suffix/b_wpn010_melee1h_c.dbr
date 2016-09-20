@@ -1,0 +1,7 @@
+of Cruelty,
+lootRandomizerJitter = 18.000000, 
+levelRequirement = 40, 
+offensiveSlowBleedingDurationMin = 2.46, 3, 3.54, 
+offensiveSlowBleedingDurationModifier = 24.6, 30, 35.4, 
+offensiveSlowBleedingMin = 5.74, 7, 8.26, 
+offensiveSlowBleedingModifier = 36.91, 45, 53.1, 

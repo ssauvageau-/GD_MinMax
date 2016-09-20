@@ -1,0 +1,6 @@
+Touch of Purity,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 14, 20, 26, 
+characterLifeRegenModifier = 21, 30, 39, 
+levelRequirement = 50, 
+offensiveTotalDamageModifier = 29.4, 42, 54.6, 

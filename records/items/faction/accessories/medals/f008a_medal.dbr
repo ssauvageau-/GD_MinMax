@@ -1,0 +1,8 @@
+Chosen Star of Thunder,
+attributeScalePercent = 20.000000, 
+characterLife = 128, 160, 192, 
+characterManaRegen = 1.21, 1.5, 1.8, 
+characterOffensiveAbility = 20.8, 26, 31.2, 
+levelRequirement = 40, 
+offensiveLightningModifier = 25.6, 32, 38.4, 
+offensiveSlowLightningModifier = 17.6, 22, 26.4, 

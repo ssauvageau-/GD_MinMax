@@ -1,0 +1,6 @@
+Sharpshooter's Pouch,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 42, 60, 78, 
+levelRequirement = 60, 
+offensivePierceMin = 4.2, 6, 7.81, 
+offensivePierceModifier = 26.6, 38, 49.4, 

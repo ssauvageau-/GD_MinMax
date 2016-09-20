@@ -1,0 +1,6 @@
+Warden's Bulwark,
+defensiveBlock = 200, 200, 200, 
+defensiveBlockChance = 23, 23, 23, 
+defensivePhysical = 8, 8, 8, 
+levelRequirement = 12, 
+offensivePhysicalMin = 50, 50, 50, 

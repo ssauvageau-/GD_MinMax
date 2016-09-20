@@ -1,0 +1,7 @@
+Celestial,
+lootRandomizerJitter = 18.000000, 
+characterLightRadius = 16.41, 20, 23.6, 
+defensiveChaos = 9.84, 12, 14.16, 
+defensiveElementalResistance = 19.68, 24, 28.32, 
+levelRequirement = 55, 
+offensiveElementalModifier = 16.41, 20, 23.6, 

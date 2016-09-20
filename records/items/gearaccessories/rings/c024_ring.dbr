@@ -1,0 +1,8 @@
+Ring of Eternal Rot,
+attributeScalePercent = 20.000000, 
+characterLife = 104, 130, 156, 
+characterSpellCastSpeedModifier = 4.81, 6, 7.2, 
+levelRequirement = 35, 
+offensivePoisonModifier = 16, 20, 24, 
+offensiveSlowPoisonDurationModifier = 80, 100, 120, 
+offensiveSlowPoisonModifier = 16, 20, 24, 

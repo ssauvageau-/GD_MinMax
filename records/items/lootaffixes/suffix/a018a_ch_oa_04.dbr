@@ -1,0 +1,4 @@
+of Attack,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 34, 40, 46, 
+levelRequirement = 26, 

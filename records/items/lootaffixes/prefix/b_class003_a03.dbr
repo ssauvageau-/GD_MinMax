@@ -1,0 +1,6 @@
+Blademaster's,
+lootRandomizerJitter = 15.000000, 
+characterStrengthModifier = 4.25, 5, 5.75, 
+levelRequirement = 90, 
+offensivePierceModifier = 13.6, 16, 18.4, 
+offensiveSlowBleedingModifier = 21.25, 25, 28.75, 

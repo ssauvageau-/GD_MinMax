@@ -1,0 +1,8 @@
+Legplates of Valor,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbilityModifier = 1.4, 2, 2.6, 
+characterLife = 315, 450, 585, 
+defensiveBleeding = 35, 50, 65, 
+defensivePhysical = 3.5, 5, 6.5, 
+defensivePierce = 23.8, 34, 44.2, 
+levelRequirement = 75, 

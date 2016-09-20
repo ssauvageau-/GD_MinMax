@@ -1,0 +1,8 @@
+Zeal,
+characterDefensiveAbility = 15, 15, 15, 
+characterOffensiveAbility = 48, 48, 48, 
+characterOffensiveAbilityModifier = 2, 2, 2, 
+levelRequirement = 50, 
+offensivePhysicalMax = 14, 14, 14, 
+offensivePhysicalMin = 7, 7, 7, 
+offensiveTotalDamageModifier = 26, 26, 26, 

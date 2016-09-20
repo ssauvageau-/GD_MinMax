@@ -1,0 +1,6 @@
+Putrid Necklace,
+attributeScalePercent = 30.000000, 
+characterLife = 196, 280, 364, 
+defensivePoison = 21, 30, 39, 
+levelRequirement = 52, 
+offensiveSlowPoisonModifier = 17.5, 25, 32.5, 

@@ -1,0 +1,7 @@
+Sacred Talisman,
+characterDexterityModifier = 6, 6, 6, 
+characterIntelligenceModifier = 6, 6, 6, 
+characterOffensiveAbilityModifier = 3, 3, 3, 
+characterStrengthModifier = 6, 6, 6, 
+levelRequirement = 50, 
+offensiveTotalDamageModifier = 24, 24, 24, 

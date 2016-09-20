@@ -1,0 +1,7 @@
+Stonehide,
+lootRandomizerJitter = 28.000000, 
+characterDefensiveAbility = 7.2, 10, 12.8, 
+defensivePhysical = 5.04, 7, 8.96, 
+defensivePierce = 6.48, 9, 11.52, 
+defensiveStun = 10.08, 14, 17.92, 
+levelRequirement = 12, 

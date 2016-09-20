@@ -1,0 +1,8 @@
+Legion Spaulders,
+attributeScalePercent = 20.000000, 
+characterLife = 176, 220, 264, 
+defensiveBleeding = 11.21, 14, 16.8, 
+levelRequirement = 35, 
+offensivePierceModifier = 12, 15, 18, 
+offensiveSlowBleedingDurationModifier = 24, 30, 36, 
+offensiveSlowBleedingModifier = 20, 25, 30, 

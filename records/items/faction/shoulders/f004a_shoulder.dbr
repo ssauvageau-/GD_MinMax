@@ -1,0 +1,8 @@
+Outcast's Wrath Mantle,
+attributeScalePercent = 20.000000, 
+characterLife = 176, 220, 264, 
+characterManaRegen = 0.8, 1, 1.2, 
+defensiveAether = 9.61, 12, 14.4, 
+levelRequirement = 35, 
+offensiveAetherModifier = 16, 20, 24, 
+offensiveElementalModifier = 12.8, 16, 19.2, 

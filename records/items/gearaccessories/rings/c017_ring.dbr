@@ -1,0 +1,7 @@
+Right Hand of Carnage,
+attributeScalePercent = 30.000000, 
+characterDexterity = 14, 20, 26, 
+characterOffensiveAbilityModifier = 2.8, 4, 5.2, 
+levelRequirement = 50, 
+offensivePierceMin = 4.9, 7, 9.1, 
+offensivePierceModifier = 15.4, 22, 28.6, 

@@ -1,0 +1,7 @@
+Chilled,
+lootRandomizerJitter = 10.000000, 
+conversionInType = Physical, 
+conversionOutType = Cold, 
+conversionPercentage = 14.4, 16, 17.6, 
+levelRequirement = 50, 
+offensiveColdMin = 21.6, 24, 26.41, 

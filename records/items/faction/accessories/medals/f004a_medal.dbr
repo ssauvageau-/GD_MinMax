@@ -1,0 +1,8 @@
+Legion Mark of the Spellweaver,
+attributeScalePercent = 20.000000, 
+characterManaRegenModifier = 12, 15, 18, 
+characterOffensiveAbility = 36, 45, 54, 
+defensiveElementalResistance = 8, 10, 12, 
+levelRequirement = 40, 
+offensiveAetherModifier = 12.8, 16, 19.2, 
+offensiveElementalModifier = 20, 25, 30, 

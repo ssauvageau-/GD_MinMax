@@ -1,0 +1,8 @@
+Seraphim,
+lootRandomizerJitter = 28.000000, 
+characterDefensiveAbility = 10.8, 15, 19.2, 
+characterDexterityModifier = 2.16, 3, 3.84, 
+characterIntelligenceModifier = 2.16, 3, 3.84, 
+defensiveFire = 12.24, 17, 21.76, 
+levelRequirement = 24, 
+retaliationFireMin = 36, 50, 64, 

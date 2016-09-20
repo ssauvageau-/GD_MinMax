@@ -1,0 +1,8 @@
+Sentinel's Seal,
+attributeScalePercent = 30.000000, 
+characterDodgePercent = 1.4, 2, 2.6, 
+characterLife = 364, 520, 676, 
+defensiveBlockAmountModifier = 12.6, 18, 23.41, 
+defensiveFire = 23.1, 33, 42.9, 
+defensivePoison = 23.1, 33, 42.9, 
+levelRequirement = 75, 

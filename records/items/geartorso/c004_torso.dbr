@@ -1,0 +1,8 @@
+Malduin's Cloth,
+characterIntelligence = 42, 42, 42, 
+characterLife = 80, 80, 80, 
+characterManaRegen = 4.3, 4.3, 4.3, 
+defensivePoison = 30, 30, 30, 
+levelRequirement = 25, 
+offensiveSlowPoisonDurationModifier = 20, 20, 20, 
+offensiveSlowPoisonModifier = 12, 12, 12, 

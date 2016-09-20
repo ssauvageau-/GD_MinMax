@@ -1,0 +1,7 @@
+Keeper's,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbility = 22.1, 26, 29.9, 
+characterStrengthModifier = 4.25, 5, 5.75, 
+defensivePhysical = 12.75, 15, 17.25, 
+defensivePoison = 17, 20, 23, 
+levelRequirement = 66, 

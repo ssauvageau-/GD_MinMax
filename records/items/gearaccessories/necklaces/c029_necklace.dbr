@@ -1,0 +1,7 @@
+Bramblewood Amulet,
+attributeScalePercent = 20.000000, 
+characterLife = 160, 200, 240, 
+defensivePoison = 16, 20, 24, 
+levelRequirement = 40, 
+offensiveLightningModifier = 22.41, 28, 33.6, 
+retaliationPierceMin = 57.6, 72, 86.4, 

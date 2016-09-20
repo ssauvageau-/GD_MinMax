@@ -1,0 +1,5 @@
+Charged,
+lootRandomizerJitter = 10.000000, 
+levelRequirement = 80, 
+offensiveLightningMax = 27, 30, 33, 
+offensiveLightningMin = 3.6, 4, 4.4, 

@@ -1,0 +1,6 @@
+Templar's Headguard,
+characterDefensiveAbility = 24, 24, 24, 
+characterLife = 230, 230, 230, 
+defensiveFire = 50, 50, 50, 
+defensiveStun = 20, 20, 20, 
+levelRequirement = 28, 

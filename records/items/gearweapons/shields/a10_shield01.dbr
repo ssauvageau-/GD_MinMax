@@ -1,0 +1,5 @@
+Tower Shield,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 630, 900, 1170, 
+defensiveBlockChance = 21, 30, 39, 
+offensivePhysicalMin = 128.000000, 

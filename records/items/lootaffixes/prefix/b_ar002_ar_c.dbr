@@ -1,0 +1,7 @@
+Rampage,
+lootRandomizerJitter = 18.000000, 
+characterOffensiveAbility = 18.05, 22, 25.96, 
+defensiveBleeding = 11.48, 14, 16.52, 
+levelRequirement = 51, 
+offensivePhysicalModifier = 18.05, 22, 25.96, 
+offensiveSlowBleedingModifier = 18.05, 22, 25.96, 

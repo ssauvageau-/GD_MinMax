@@ -1,0 +1,7 @@
+Mistborn Talisman,
+characterLifeRegen = 8, 8, 8, 
+characterStrength = 24, 24, 24, 
+defensivePoison = 15, 15, 15, 
+levelRequirement = 25, 
+offensivePhysicalMax = 12, 12, 12, 
+offensivePhysicalMin = 4, 4, 4, 

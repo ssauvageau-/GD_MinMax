@@ -1,0 +1,8 @@
+Praetorian Shoulderguard,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 28, 40, 52, 
+characterDeflectProjectile = 5.6, 8, 10.4, 
+defensiveAbsorptionModifier = 7, 10, 13, 
+defensiveBlockAmountModifier = 11.2, 16, 20.8, 
+defensivePierce = 15.4, 22, 28.6, 
+levelRequirement = 50, 

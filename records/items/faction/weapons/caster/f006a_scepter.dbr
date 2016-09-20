@@ -1,0 +1,6 @@
+Rhowari Deathtouch,
+attributeScalePercent = 28.000000, 
+characterDefensiveAbility = 12.96, 18, 23.04, 
+characterManaRegen = 0.36, 0.5, 0.64, 
+levelRequirement = 35, 
+offensiveLifeModifier = 46.08, 64, 81.92, 

@@ -1,0 +1,8 @@
+of the Honor Guard,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 10.2, 12, 13.8, 
+characterLife = 318.75, 375, 431.25, 
+characterSpellCastSpeedModifier = 7.65, 9, 10.35, 
+defensiveBlockAmountModifier = 18.7, 22, 25.3, 
+defensivePierce = 12.75, 15, 17.25, 
+levelRequirement = 72, 

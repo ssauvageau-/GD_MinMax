@@ -1,0 +1,7 @@
+Eldritch,
+lootRandomizerJitter = 15.000000, 
+characterLifeModifier = 4.25, 5, 5.75, 
+levelRequirement = 70, 
+offensiveLifeLeechMin = 6.8, 8, 9.2, 
+offensiveLifeMin = 6.8, 8, 9.2, 
+offensiveLifeModifier = 25.5, 30, 34.5, 

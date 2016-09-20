@@ -1,0 +1,7 @@
+Blightshard Amulet,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 33.6, 48, 62.41, 
+levelRequirement = 65, 
+offensiveSlowPoisonDurationMin = 3.5, 5, 6.5, 
+offensiveSlowPoisonMin = 8.4, 12, 15.61, 
+offensiveSlowPoisonModifier = 38.5, 55, 71.5, 

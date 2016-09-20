@@ -1,0 +1,8 @@
+Devil's Chestguard,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 29.4, 42, 54.6, 
+characterLife = 400.4, 572, 743.6, 
+characterLifeRegen = 5.6, 8, 10.4, 
+characterLifeRegenModifier = 8.4, 12, 15.61, 
+defensivePhysical = 3.5, 5, 6.5, 
+levelRequirement = 50, 

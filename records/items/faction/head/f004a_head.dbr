@@ -1,0 +1,8 @@
+Legion Spellbearer,
+attributeScalePercent = 20.000000, 
+characterIntelligence = 19.21, 24, 28.8, 
+characterManaRegen = 1.84, 2.3, 2.76, 
+defensiveChaos = 8, 10, 12, 
+levelRequirement = 35, 
+offensiveChaosModifier = 16, 20, 24, 
+offensiveLifeModifier = 16, 20, 24, 

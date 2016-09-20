@@ -1,0 +1,7 @@
+of Dark Intent,
+lootRandomizerJitter = 28.000000, 
+characterAttackSpeedModifier = 3.6, 5, 6.4, 
+characterSpellCastSpeedModifier = 5.04, 7, 8.96, 
+levelRequirement = 16, 
+offensiveChaosModifier = 5.04, 7, 8.96, 
+offensiveSlowPoisonModifier = 5.04, 7, 8.96, 

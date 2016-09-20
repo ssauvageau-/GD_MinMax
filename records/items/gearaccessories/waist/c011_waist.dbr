@@ -1,0 +1,7 @@
+Chains of Anguish,
+attributeScalePercent = 30.000000, 
+characterTotalSpeedModifier = 2.8, 4, 5.2, 
+levelRequirement = 50, 
+offensiveCritDamageModifier = 7, 10, 13, 
+offensiveLifeLeechMin = 5.6, 8, 10.4, 
+offensiveTotalDamageModifier = 35, 50, 65, 

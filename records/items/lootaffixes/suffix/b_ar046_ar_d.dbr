@@ -1,0 +1,7 @@
+of the Cabal,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbility = 22.95, 27, 31.05, 
+defensivePoison = 12.75, 15, 17.25, 
+levelRequirement = 70, 
+offensiveChaosModifier = 27.2, 32, 36.8, 
+offensiveSlowPoisonModifier = 27.2, 32, 36.8, 

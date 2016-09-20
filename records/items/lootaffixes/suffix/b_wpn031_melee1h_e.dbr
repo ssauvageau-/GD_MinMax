@@ -1,0 +1,8 @@
+of Arcane Balance,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 8.5, 10, 11.5, 
+levelRequirement = 74, 
+offensiveColdMin = 8.5, 10, 11.5, 
+offensiveColdModifier = 46.75, 55, 63.25, 
+offensiveFireMin = 8.5, 10, 11.5, 
+offensiveFireModifier = 46.75, 55, 63.25, 

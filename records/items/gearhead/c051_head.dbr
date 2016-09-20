@@ -1,0 +1,8 @@
+The Triumvirate,
+attributeScalePercent = 20.000000, 
+characterLifeModifier = 2.41, 3, 3.6, 
+characterManaRegen = 2.08, 2.6, 3.12, 
+defensiveLightning = 12, 15, 18, 
+levelRequirement = 35, 
+offensiveChaosModifier = 20, 25, 30, 
+offensiveLifeModifier = 14.4, 18, 21.6, 

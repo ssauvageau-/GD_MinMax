@@ -1,0 +1,5 @@
+Impervious,
+lootRandomizerJitter = 10.000000, 
+defensivePierce = 18, 20, 22, 
+defensivePoison = 23.41, 26, 28.6, 
+levelRequirement = 21, 

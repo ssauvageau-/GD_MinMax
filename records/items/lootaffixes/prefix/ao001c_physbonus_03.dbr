@@ -1,0 +1,5 @@
+Superior,
+lootRandomizerJitter = 25.000000, 
+levelRequirement = 16, 
+offensiveBonusPhysicalMax = 12, 16, 20, 
+offensiveBonusPhysicalMin = 6, 8, 10, 

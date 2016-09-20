@@ -1,0 +1,8 @@
+Poisoned,
+lootRandomizerJitter = 10.000000, 
+conversionInType = Physical, 
+conversionOutType = Poison, 
+conversionPercentage = 9, 10, 11, 
+levelRequirement = 80, 
+offensiveSlowPoisonDurationMin = 4.5, 5, 5.5, 
+offensiveSlowPoisonMin = 22.5, 25, 27.51, 

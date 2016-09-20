@@ -1,0 +1,6 @@
+Fiendblood Spellblade,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 28, 35, 42, 
+characterLife = 200, 250, 300, 
+levelRequirement = 40, 
+offensiveChaosModifier = 19.21, 24, 28.8, 

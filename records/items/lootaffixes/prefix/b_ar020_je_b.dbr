@@ -1,0 +1,8 @@
+Unyielding,
+lootRandomizerJitter = 22.000000, 
+characterConstitutionModifier = 11.71, 15, 18.3, 
+characterDefensiveAbility = 15.61, 20, 24.4, 
+characterStrengthModifier = 3.12, 4, 4.88, 
+defensiveBlockAmountModifier = 7.03, 9, 10.98, 
+defensiveStun = 15.61, 20, 24.4, 
+levelRequirement = 36, 

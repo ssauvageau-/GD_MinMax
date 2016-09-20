@@ -1,0 +1,8 @@
+Doomtouch,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 12.6, 18, 23.41, 
+characterSpellCastSpeedModifier = 11.9, 17, 22.1, 
+defensiveElementalResistance = 8.4, 12, 15.61, 
+levelRequirement = 58, 
+offensiveAetherModifier = 14, 20, 26, 
+offensiveChaosModifier = 19.6, 28, 36.4, 

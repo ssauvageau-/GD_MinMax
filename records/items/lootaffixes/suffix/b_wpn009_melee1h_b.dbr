@@ -1,0 +1,8 @@
+of Fervor,
+lootRandomizerJitter = 22.000000, 
+characterAttackSpeedModifier = 4.68, 6, 7.32, 
+characterLife = 70.2, 90, 109.8, 
+levelRequirement = 28, 
+offensiveBonusPhysicalChance = 7.81, 10, 12.2, 
+offensiveBonusPhysicalMin = 35.1, 45, 54.9, 
+offensivePhysicalModifier = 18.72, 24, 29.28, 

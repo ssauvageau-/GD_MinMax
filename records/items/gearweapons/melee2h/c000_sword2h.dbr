@@ -1,0 +1,6 @@
+tagWeaponMelee2hC000,
+attributeScalePercent = 30.000000, 
+levelRequirement = 1, 
+offensivePhysicalMax = 11.000000, 
+offensivePhysicalMin = 11.000000, 
+offensivePierceRatioMin = 22.000000, 

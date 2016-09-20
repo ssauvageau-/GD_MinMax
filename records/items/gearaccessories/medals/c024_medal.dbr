@@ -1,0 +1,8 @@
+Volcanum,
+attributeScalePercent = 30.000000, 
+defensiveChaos = 22.4, 32, 41.6, 
+defensiveFire = 37.8, 54, 70.2, 
+defensiveFireMaxResist = 2.1, 3, 3.91, 
+levelRequirement = 75, 
+offensiveFireModifier = 38.5, 55, 71.5, 
+offensiveSlowFireModifier = 28, 40, 52, 

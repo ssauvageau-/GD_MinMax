@@ -1,0 +1,8 @@
+of Arcane Lore,
+lootRandomizerJitter = 15.000000, 
+characterGlobalReqReduction = 10.2, 12, 13.8, 
+characterIncreasedExperience = 3.4, 4, 4.6, 
+characterIntelligence = 35.7, 42, 48.3, 
+defensiveElementalResistance = 20.4, 24, 27.6, 
+levelRequirement = 67, 
+offensiveElementalModifier = 21.25, 25, 28.75, 

@@ -1,0 +1,8 @@
+Amarastan Pauldrons,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 14, 20, 26, 
+characterDeflectProjectile = 5.6, 8, 10.4, 
+characterOffensiveAbility = 46.2, 66, 85.8, 
+levelRequirement = 75, 
+offensivePhysicalModifier = 22.4, 32, 41.6, 
+offensivePierceModifier = 15.4, 22, 28.6, 

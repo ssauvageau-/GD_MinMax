@@ -1,0 +1,7 @@
+Frostguard Girdle,
+attributeScalePercent = 30.000000, 
+characterDodgePercent = 3.5, 5, 6.5, 
+characterLifeModifier = 2.8, 4, 5.2, 
+defensiveCold = 21, 30, 39, 
+defensiveProtectionChance = 7, 10, 13, 
+levelRequirement = 65, 

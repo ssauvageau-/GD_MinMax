@@ -1,0 +1,6 @@
+Solar Waistguard,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 3.5, 5, 6.5, 
+levelRequirement = 50, 
+offensiveCritDamageModifier = 3.5, 5, 6.5, 
+offensivePhysicalModifier = 17.5, 25, 32.5, 

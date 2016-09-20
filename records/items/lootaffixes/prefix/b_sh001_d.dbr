@@ -1,0 +1,7 @@
+Immovable,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbility = 22.1, 26, 29.9, 
+characterDefensiveAbilityModifier = 1.7, 2, 2.3, 
+defensiveBlockAmountModifier = 15.3, 18, 20.7, 
+defensivePhysical = 12.75, 15, 17.25, 
+levelRequirement = 66, 

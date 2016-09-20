@@ -1,0 +1,7 @@
+Heart of the Mountain,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 2.8, 4, 5.2, 
+levelRequirement = 75, 
+offensiveColdMin = 4.2, 6, 7.81, 
+offensiveColdModifier = 29.4, 42, 54.6, 
+offensiveSlowColdModifier = 29.4, 42, 54.6, 

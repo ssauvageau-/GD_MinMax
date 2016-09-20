@@ -1,0 +1,6 @@
+Dracarris,
+attributeScalePercent = 30.000000, 
+levelRequirement = 75, 
+offensiveChaosModifier = 52.5, 75, 97.5, 
+offensiveFireModifier = 87.5, 125, 162.5, 
+offensiveSlowFireModifier = 87.5, 125, 162.5, 

@@ -1,0 +1,8 @@
+Tempest,
+lootRandomizerJitter = 22.000000, 
+characterManaModifier = 9.36, 12, 14.64, 
+characterOffensiveAbilityModifier = 1.56, 2, 2.44, 
+levelRequirement = 37, 
+offensiveElementalModifier = 10.92, 14, 17.08, 
+retaliationLightningChance = 7.81, 10, 12.2, 
+retaliationLightningMin = 188.77, 242, 295.24, 

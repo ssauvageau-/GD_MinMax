@@ -1,0 +1,7 @@
+Overlord's,
+lootRandomizerJitter = 18.000000, 
+defensivePhysical = 11.48, 14, 16.52, 
+levelRequirement = 52, 
+offensivePhysicalModifier = 17.23, 21, 24.78, 
+retaliationPierceMin = 165.65, 202, 238.36, 
+retaliationTotalDamageModifier = 18.05, 22, 25.96, 

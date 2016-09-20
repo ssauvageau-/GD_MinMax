@@ -1,0 +1,7 @@
+Amulet of Scorched Earth,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 28.8, 36, 43.2, 
+levelRequirement = 32, 
+offensiveFireModifier = 20, 25, 30, 
+offensivePhysicalModifier = 8, 10, 12, 
+offensiveSlowFireModifier = 8, 10, 12, 

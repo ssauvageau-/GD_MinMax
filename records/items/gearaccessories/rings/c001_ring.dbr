@@ -1,0 +1,5 @@
+Marrow Band,
+levelRequirement = 14, 
+offensiveLifeMax = 5, 5, 5, 
+offensiveLifeMin = 2, 2, 2, 
+offensiveLifeModifier = 10, 10, 10, 

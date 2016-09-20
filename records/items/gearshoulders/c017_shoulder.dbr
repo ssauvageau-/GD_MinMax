@@ -1,0 +1,8 @@
+Alchemist's Mantle,
+attributeScalePercent = 30.000000, 
+defensiveLife = 19.6, 28, 36.4, 
+defensivePoison = 26.6, 38, 49.4, 
+levelRequirement = 58, 
+offensiveLifeModifier = 26.6, 38, 49.4, 
+offensiveSlowPoisonDurationModifier = 21, 30, 39, 
+offensiveSlowPoisonModifier = 32.2, 46, 59.81, 

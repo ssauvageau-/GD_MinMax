@@ -1,0 +1,8 @@
+Kilrian's Skullbreaker,
+attributeScalePercent = 28.000000, 
+levelRequirement = 35, 
+offensiveFireMin = 7.2, 10, 12.8, 
+offensiveFireModifier = 14.4, 20, 25.6, 
+offensivePhysicalMax = 104.000000, 
+offensivePhysicalMin = 45.000000, 
+offensivePhysicalModifier = 10.8, 15, 19.2, 

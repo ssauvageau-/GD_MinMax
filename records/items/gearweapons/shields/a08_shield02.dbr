@@ -1,0 +1,5 @@
+Aegis,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 350, 500, 650, 
+defensiveBlockChance = 19.6, 28, 36.4, 
+offensivePhysicalMin = 110.000000, 

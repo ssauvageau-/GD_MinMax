@@ -1,0 +1,8 @@
+Incendiary Casque,
+attributeScalePercent = 20.000000, 
+defensiveFire = 20, 25, 30, 
+levelRequirement = 32, 
+offensiveFireMax = 5.61, 7, 8.4, 
+offensiveFireMin = 2.41, 3, 3.6, 
+offensiveFireModifier = 9.61, 12, 14.4, 
+offensiveSlowFireModifier = 8.8, 11, 13.2, 

@@ -1,0 +1,7 @@
+Runic Bracers,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 23.1, 33, 42.9, 
+characterEnergyAbsorptionPercent = 21, 30, 39, 
+characterLife = 385, 550, 715, 
+defensiveElementalResistance = 12.6, 18, 23.41, 
+levelRequirement = 50, 

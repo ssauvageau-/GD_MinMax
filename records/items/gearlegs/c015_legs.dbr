@@ -1,0 +1,8 @@
+Spellweave Legwraps,
+attributeScalePercent = 30.000000, 
+characterLife = 224, 320, 416, 
+characterManaRegen = 1.05, 1.5, 1.96, 
+characterRunSpeedModifier = 4.2, 6, 7.81, 
+defensiveElementalResistance = 13.3, 19, 24.7, 
+levelRequirement = 75, 
+offensiveElementalModifier = 17.5, 25, 32.5, 

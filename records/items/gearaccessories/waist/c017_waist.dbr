@@ -1,0 +1,8 @@
+Legionnaire's Triumph,
+attributeScalePercent = 30.000000, 
+defensiveFire = 38.5, 55, 71.5, 
+defensivePierce = 17.5, 25, 32.5, 
+defensiveProtectionModifier = 3.5, 5, 6.5, 
+levelRequirement = 65, 
+offensivePhysicalModifier = 36.4, 52, 67.61, 
+offensiveSlowPhysicalModifier = 28, 40, 52, 

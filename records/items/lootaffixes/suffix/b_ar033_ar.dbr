@@ -1,0 +1,7 @@
+of Desolation,
+lootRandomizerJitter = 28.000000, 
+levelRequirement = 24, 
+offensiveFireModifier = 7.2, 10, 12.8, 
+offensiveSlowFireModifier = 10.08, 14, 17.92, 
+retaliationSlowFireDurationMin = 2.16, 3, 3.84, 
+retaliationSlowFireMin = 24.48, 34, 43.52, 

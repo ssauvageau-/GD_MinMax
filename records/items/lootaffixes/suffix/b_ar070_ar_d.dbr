@@ -1,0 +1,7 @@
+of Stone Fists,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbility = 38.25, 45, 51.75, 
+characterLife = 318.75, 375, 431.25, 
+characterLifeModifier = 2.55, 3, 3.45, 
+defensivePierce = 15.3, 18, 20.7, 
+levelRequirement = 72, 

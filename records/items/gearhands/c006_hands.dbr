@@ -1,0 +1,8 @@
+Soul's Touch,
+characterIntelligence = 17, 17, 17, 
+levelRequirement = 16, 
+offensiveAetherMax = 4, 4, 4, 
+offensiveAetherMin = 2, 2, 2, 
+offensiveAetherModifier = 14, 14, 14, 
+offensiveSlowManaLeachDurationMin = 3, 3, 3, 
+offensiveSlowManaLeachMin = 7, 7, 7, 

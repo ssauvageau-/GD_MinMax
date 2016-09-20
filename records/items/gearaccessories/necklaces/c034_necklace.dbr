@@ -1,0 +1,8 @@
+Venomblade Amulet,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 38.5, 55, 71.5, 
+levelRequirement = 68, 
+offensiveCritDamageModifier = 5.6, 8, 10.4, 
+offensivePierceModifier = 21, 30, 39, 
+offensiveSlowPoisonDurationModifier = 14, 20, 26, 
+offensiveSlowPoisonModifier = 29.4, 42, 54.6, 

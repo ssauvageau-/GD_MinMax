@@ -1,0 +1,7 @@
+Spectral Broadsword,
+attributeScalePercent = 8.000000, 
+levelRequirement = 20, 
+offensiveColdModifier = 13.8, 15, 16.21, 
+offensivePhysicalMax = 27.000000, 
+offensivePhysicalMin = 24.000000, 
+offensivePierceRatioMin = 25.000000, 

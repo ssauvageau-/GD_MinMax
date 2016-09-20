@@ -1,0 +1,8 @@
+Harvester Stone,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 25.6, 32, 38.4, 
+characterLife = 128, 160, 192, 
+characterStrength = 11.21, 14, 16.8, 
+levelRequirement = 40, 
+offensiveSlowBleedingModifier = 28.8, 36, 43.2, 
+offensiveSlowPhysicalModifier = 28.8, 36, 43.2, 

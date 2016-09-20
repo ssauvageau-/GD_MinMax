@@ -1,0 +1,8 @@
+Death's Mantle,
+attributeScalePercent = 20.000000, 
+characterLifeRegen = 4, 5, 6, 
+defensiveCold = 16, 20, 24, 
+defensiveLife = 9.61, 12, 14.4, 
+levelRequirement = 35, 
+offensiveColdModifier = 16, 20, 24, 
+offensiveLifeModifier = 16, 20, 24, 

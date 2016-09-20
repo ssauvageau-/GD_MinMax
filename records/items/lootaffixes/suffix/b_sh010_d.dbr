@@ -1,0 +1,7 @@
+of Blight,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 18.7, 22, 25.3, 
+levelRequirement = 55, 
+offensivePoisonModifier = 52.7, 62, 71.3, 
+offensiveSlowPoisonDurationModifier = 27.2, 32, 36.8, 
+offensiveSlowPoisonModifier = 52.7, 62, 71.3, 

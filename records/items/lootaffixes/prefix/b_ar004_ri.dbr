@@ -1,0 +1,7 @@
+Lich's,
+lootRandomizerJitter = 28.000000, 
+characterEnergyAbsorptionPercent = 10.8, 15, 19.2, 
+characterIntelligenceModifier = 2.88, 4, 5.12, 
+characterManaRegen = 0.8, 1.1, 1.41, 
+defensiveReflect = 7.2, 10, 12.8, 
+levelRequirement = 12, 

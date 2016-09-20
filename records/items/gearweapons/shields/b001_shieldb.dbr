@@ -1,0 +1,8 @@
+Warden's Fortress,
+characterLifeModifier = 6, 6, 6, 
+defensiveAether = 8, 8, 8, 
+defensiveBlock = 225, 225, 225, 
+defensiveBlockChance = 24, 24, 24, 
+defensivePhysical = 8, 8, 8, 
+levelRequirement = 12, 
+offensivePhysicalMin = 54, 54, 54, 

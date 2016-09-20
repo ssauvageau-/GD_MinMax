@@ -1,0 +1,7 @@
+of the Sage,
+lootRandomizerJitter = 22.000000, 
+characterManaRegen = 1.1, 1.4, 1.71, 
+defensiveElementalResistance = 11.71, 15, 18.3, 
+levelRequirement = 35, 
+offensiveElementalMin = 3.91, 5, 6.1, 
+offensiveElementalModifier = 17.16, 22, 26.84, 

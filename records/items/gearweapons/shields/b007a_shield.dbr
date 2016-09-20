@@ -1,0 +1,7 @@
+Trog Bonewall,
+defensiveBlock = 168, 168, 168, 
+defensiveBlockChance = 20, 20, 20, 
+levelRequirement = 23, 
+offensiveLifeMin = 5, 5, 5, 
+offensiveLifeModifier = 26, 26, 26, 
+offensivePhysicalMin = 42, 42, 42, 

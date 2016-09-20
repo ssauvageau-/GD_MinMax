@@ -1,0 +1,8 @@
+Dreadchill Grasp,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 9.1, 13, 16.91, 
+characterSpellCastSpeedModifier = 9.1, 13, 16.91, 
+levelRequirement = 75, 
+offensiveColdMin = 4.2, 6, 7.81, 
+offensiveColdModifier = 30.8, 44, 57.2, 
+offensiveSlowColdModifier = 30.8, 44, 57.2, 

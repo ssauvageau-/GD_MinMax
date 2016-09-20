@@ -1,0 +1,7 @@
+Bloodmoon,
+characterAttackSpeedModifier = 7, 7, 7, 
+characterDexterity = 8, 8, 8, 
+levelRequirement = 19, 
+offensiveSlowBleedingDurationMin = 3, 3, 3, 
+offensiveSlowBleedingMin = 4, 4, 4, 
+offensiveSlowBleedingModifier = 17, 17, 17, 

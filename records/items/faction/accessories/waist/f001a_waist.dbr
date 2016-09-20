@@ -1,0 +1,6 @@
+Devil's Cord,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 25.6, 32, 38.4, 
+characterDodgePercent = 4, 5, 6, 
+defensiveBleedingDuration = 20, 25, 30, 
+levelRequirement = 35, 

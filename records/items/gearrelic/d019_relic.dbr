@@ -1,0 +1,8 @@
+Oleron's Wrath,
+characterOffensiveAbility = 50, 50, 50, 
+levelRequirement = 70, 
+offensivePhysicalMax = 16, 16, 16, 
+offensivePhysicalMin = 10, 10, 10, 
+offensivePhysicalModifier = 98, 98, 98, 
+offensiveSlowBleedingDurationModifier = 30, 30, 30, 
+offensiveSlowBleedingModifier = 78, 78, 78, 

@@ -1,0 +1,8 @@
+of Shadows,
+lootRandomizerJitter = 15.000000, 
+characterDexterity = 12.75, 15, 17.25, 
+characterOffensiveAbility = 35.7, 42, 48.3, 
+defensiveLife = 11.9, 14, 16.1, 
+levelRequirement = 67, 
+offensiveLifeModifier = 28.05, 33, 37.95, 
+offensivePierceModifier = 28.05, 33, 37.95, 

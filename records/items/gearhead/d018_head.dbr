@@ -1,0 +1,7 @@
+Crown of the Winter King,
+attributeScalePercent = 30.000000, 
+characterLifeModifier = 2.8, 4, 5.2, 
+levelRequirement = 75, 
+offensiveColdMin = 4.9, 7, 9.1, 
+offensiveColdModifier = 28, 40, 52, 
+offensiveSlowColdModifier = 28, 40, 52, 

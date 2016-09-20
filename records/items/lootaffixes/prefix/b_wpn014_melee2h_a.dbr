@@ -1,0 +1,7 @@
+Earthbound,
+lootRandomizerJitter = 28.000000, 
+defensivePhysical = 5.04, 7, 8.96, 
+levelRequirement = 12, 
+offensiveBonusPhysicalMax = 10.8, 15, 19.2, 
+offensiveBonusPhysicalMin = 2.16, 3, 3.84, 
+offensivePhysicalModifier = 14.4, 20, 25.6, 

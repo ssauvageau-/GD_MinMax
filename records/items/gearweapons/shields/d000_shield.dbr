@@ -1,0 +1,6 @@
+Meat Shield,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 235.2, 336, 436.8, 
+defensiveBlockChance = 17.5, 25, 32.5, 
+levelRequirement = 30, 
+offensivePhysicalMin = 24.000000, 

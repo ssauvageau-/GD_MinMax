@@ -1,0 +1,8 @@
+Ruby of Elemental Balance,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 11.2, 16, 20.8, 
+characterSpellCastSpeedModifier = 5.6, 8, 10.4, 
+defensiveFire = 12.6, 18, 23.41, 
+levelRequirement = 72, 
+offensiveSlowColdModifier = 35, 50, 65, 
+offensiveSlowFireModifier = 35, 50, 65, 

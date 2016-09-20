@@ -1,0 +1,8 @@
+Skyreach Sash,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 22.4, 32, 41.6, 
+levelRequirement = 50, 
+offensiveLightningModifier = 35, 50, 65, 
+offensiveSlowLightningModifier = 28, 40, 52, 
+retaliationLightningMax = 130.9, 187, 243.1, 
+retaliationLightningMin = 0.7, 1, 1.3, 

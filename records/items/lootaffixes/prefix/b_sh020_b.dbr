@@ -1,0 +1,7 @@
+Hoarfrost,
+lootRandomizerJitter = 22.000000, 
+defensiveCold = 11.71, 15, 18.3, 
+defensiveProtectionModifier = 3.91, 5, 6.1, 
+levelRequirement = 37, 
+offensiveColdMin = 4.68, 6, 7.32, 
+offensiveColdModifier = 16.38, 21, 25.62, 

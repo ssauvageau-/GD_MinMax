@@ -1,0 +1,8 @@
+Stoneskin Girdle,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 26.6, 38, 49.4, 
+defensiveBleeding = 14, 20, 26, 
+defensiveBleedingMaxResist = 4.2, 6, 7.81, 
+defensivePierce = 23.1, 33, 42.9, 
+defensiveProtectionModifier = 7, 10, 13, 
+levelRequirement = 75, 

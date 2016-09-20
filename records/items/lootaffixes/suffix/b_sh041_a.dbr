@@ -1,0 +1,7 @@
+of Annihilation,
+lootRandomizerJitter = 28.000000, 
+defensiveChaos = 7.2, 10, 12.8, 
+defensiveLife = 7.2, 10, 12.8, 
+levelRequirement = 10, 
+offensiveLifeMin = 2.16, 3, 3.84, 
+offensiveLifeModifier = 7.2, 10, 12.8, 

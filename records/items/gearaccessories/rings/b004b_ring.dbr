@@ -1,0 +1,6 @@
+Gollus' Ring,
+attributeScalePercent = 30.000000, 
+characterLife = 196, 280, 364, 
+characterLifeRegen = 7, 10, 13, 
+characterLifeRegenModifier = 21, 30, 39, 
+levelRequirement = 60, 

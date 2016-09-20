@@ -1,0 +1,5 @@
+Taskmaster's,
+lootRandomizerJitter = 15.000000, 
+characterLifeModifier = 4.25, 5, 5.75, 
+defensiveElementalResistance = 11.9, 14, 16.1, 
+levelRequirement = 68, 

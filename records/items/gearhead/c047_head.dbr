@@ -1,0 +1,7 @@
+Wildcaller's Cowl,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 10.5, 15, 19.5, 
+characterLife = 322, 460, 598, 
+characterLifeRegen = 7, 10, 13, 
+levelRequirement = 65, 
+offensivePhysicalModifier = 19.6, 28, 36.4, 

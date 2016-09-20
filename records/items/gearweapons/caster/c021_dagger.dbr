@@ -1,0 +1,8 @@
+Glacierborn Spellblade,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 22.4, 32, 41.6, 
+defensiveCold = 25.2, 36, 46.81, 
+levelRequirement = 75, 
+offensiveColdModifier = 77, 110, 143, 
+offensiveCritDamageModifier = 4.9, 7, 9.1, 
+offensivePierceModifier = 29.4, 42, 54.6, 

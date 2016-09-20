@@ -1,0 +1,4 @@
+Pepperbox Gun,
+offensivePhysicalMax = 22, 22, 22, 
+offensivePhysicalMin = 14, 14, 14, 
+offensivePierceRatioMin = 9, 9, 9, 

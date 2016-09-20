@@ -1,0 +1,8 @@
+of Arcane Balance,
+lootRandomizerJitter = 15.000000, 
+defensiveElementalResistance = 15.3, 18, 20.7, 
+levelRequirement = 60, 
+offensiveColdModifier = 52.7, 62, 71.3, 
+offensiveFireModifier = 52.7, 62, 71.3, 
+offensiveSlowColdModifier = 52.7, 62, 71.3, 
+offensiveSlowFireModifier = 52.7, 62, 71.3, 

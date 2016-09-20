@@ -1,0 +1,7 @@
+Briarthorn Band,
+attributeScalePercent = 30.000000, 
+characterLifeModifier = 2.8, 4, 5.2, 
+levelRequirement = 65, 
+offensiveSlowBleedingModifier = 31.5, 45, 58.5, 
+retaliationPierceMin = 211.4, 302, 392.6, 
+retaliationTotalDamageModifier = 28, 40, 52, 

@@ -1,0 +1,7 @@
+Hermit's Legguards,
+characterDefensiveAbility = 13, 13, 13, 
+characterIncreasedExperience = 4, 4, 4, 
+characterLife = 190, 190, 190, 
+characterOffensiveAbility = 30, 30, 30, 
+levelRequirement = 23, 
+offensiveTotalDamageModifier = 8, 8, 8, 

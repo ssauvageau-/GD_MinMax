@@ -1,0 +1,8 @@
+Frenzied,
+lootRandomizerJitter = 22.000000, 
+characterAttackSpeedModifier = 6.24, 8, 9.76, 
+characterDexterity = 9.36, 12, 14.64, 
+characterOffensiveAbility = 27.3, 35, 42.7, 
+levelRequirement = 35, 
+offensiveBonusPhysicalMax = 18.72, 24, 29.28, 
+offensiveBonusPhysicalMin = 3.12, 4, 4.88, 

@@ -1,0 +1,7 @@
+of the Sage,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 10.2, 12, 13.8, 
+defensiveElementalResistance = 11.9, 14, 16.1, 
+levelRequirement = 60, 
+offensiveElementalMin = 8.5, 10, 11.5, 
+offensiveElementalModifier = 36.55, 43, 49.45, 

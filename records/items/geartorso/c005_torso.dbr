@@ -1,0 +1,7 @@
+Doomforged Breastplate,
+characterLifeModifier = 6, 6, 6, 
+characterStrength = 24, 24, 24, 
+defensiveLife = 18, 18, 18, 
+levelRequirement = 27, 
+offensiveChaosModifier = 13, 13, 13, 
+offensiveLifeModifier = 8, 8, 8, 

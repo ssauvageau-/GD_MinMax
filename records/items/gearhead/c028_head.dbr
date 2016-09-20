@@ -1,0 +1,8 @@
+Frostshard Crown,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 12.6, 18, 23.41, 
+characterManaRegen = 2.24, 3.2, 4.16, 
+defensiveCold = 17.5, 25, 32.5, 
+levelRequirement = 58, 
+offensiveColdModifier = 28, 40, 52, 
+offensiveSlowColdModifier = 35, 50, 65, 

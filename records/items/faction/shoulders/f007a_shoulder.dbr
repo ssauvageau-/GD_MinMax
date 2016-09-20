@@ -1,0 +1,7 @@
+Outcast's Chilled Pauldrons,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 25.6, 32, 38.4, 
+defensiveCold = 16, 20, 24, 
+levelRequirement = 35, 
+offensiveColdModifier = 16, 20, 24, 
+offensiveSlowColdModifier = 16, 20, 24, 

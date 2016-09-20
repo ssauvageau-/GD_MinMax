@@ -1,0 +1,8 @@
+Outcast's Void Mantle,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 28, 40, 52, 
+defensiveChaos = 15.4, 22, 28.6, 
+levelRequirement = 70, 
+offensiveChaosMax = 4.2, 6, 7.81, 
+offensiveChaosMin = 1.4, 2, 2.6, 
+offensiveChaosModifier = 32.2, 46, 59.81, 

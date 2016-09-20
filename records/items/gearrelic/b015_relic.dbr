@@ -1,0 +1,7 @@
+Ivory Talisman,
+characterDexterityModifier = 6, 6, 6, 
+characterIntelligenceModifier = 6, 6, 6, 
+characterOffensiveAbilityModifier = 3, 3, 3, 
+characterStrengthModifier = 6, 6, 6, 
+levelRequirement = 35, 
+offensiveTotalDamageModifier = 10, 10, 10, 

@@ -1,0 +1,8 @@
+Devil's Cuirass,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 42, 60, 78, 
+characterOffensiveAbilityModifier = 1.4, 2, 2.6, 
+defensivePierce = 12.6, 18, 23.41, 
+levelRequirement = 50, 
+offensivePierceMin = 4.9, 7, 9.1, 
+offensivePierceModifier = 19.6, 28, 36.4, 

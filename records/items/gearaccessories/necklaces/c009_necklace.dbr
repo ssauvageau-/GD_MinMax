@@ -1,0 +1,7 @@
+Vortex Stone,
+attributeScalePercent = 20.000000, 
+characterAttackSpeedModifier = 4.81, 6, 7.2, 
+characterLife = 308, 385, 462, 
+characterManaRegen = 1.6, 2, 2.4, 
+characterSpellCastSpeedModifier = 4.81, 6, 7.2, 
+levelRequirement = 45, 

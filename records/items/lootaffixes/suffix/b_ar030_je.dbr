@@ -1,0 +1,8 @@
+of Butchery,
+lootRandomizerJitter = 28.000000, 
+characterLife = 36, 50, 64, 
+levelRequirement = 14, 
+offensiveSlowBleedingModifier = 7.2, 10, 12.8, 
+offensiveSlowLifeLeachChance = 18, 25, 32, 
+offensiveSlowLifeLeachDurationMin = 0.72, 1, 1.28, 
+offensiveSlowLifeLeachMin = 10.8, 15, 19.2, 

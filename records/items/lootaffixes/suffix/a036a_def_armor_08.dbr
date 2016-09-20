@@ -1,0 +1,5 @@
+of Fortification,
+lootRandomizerJitter = 10.000000, 
+characterDefensiveAbility = 7.2, 8, 8.8, 
+defensiveBonusProtection = 72, 80, 88, 
+levelRequirement = 80, 

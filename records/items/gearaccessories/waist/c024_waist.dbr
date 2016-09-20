@@ -1,0 +1,7 @@
+Flame Keeper's Girdle,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 42, 60, 78, 
+defensivePierce = 25.2, 36, 46.81, 
+levelRequirement = 72, 
+offensiveSlowFireModifier = 35, 50, 65, 
+offensiveSlowLightningModifier = 35, 50, 65, 

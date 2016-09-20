@@ -1,0 +1,8 @@
+Aegis,
+characterDefensiveAbility = 44, 44, 44, 
+characterDefensiveAbilityModifier = 4, 4, 4, 
+characterLifeRegen = 17, 17, 17, 
+characterLifeRegenModifier = 20, 20, 20, 
+defensiveLife = 40, 40, 40, 
+levelRequirement = 60, 
+offensivePhysicalModifier = 45, 45, 45, 

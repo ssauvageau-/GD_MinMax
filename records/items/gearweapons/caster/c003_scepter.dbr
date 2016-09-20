@@ -1,0 +1,5 @@
+Chillheart Scepter,
+characterSpellCastSpeedModifier = 8, 8, 8, 
+levelRequirement = 30, 
+offensiveColdMin = 6, 6, 6, 
+offensiveColdModifier = 58, 58, 58, 

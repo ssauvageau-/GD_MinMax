@@ -1,0 +1,5 @@
+of Spellweaving,
+lootRandomizerJitter = 20.000000, 
+levelRequirement = 40, 
+offensiveAetherModifier = 16, 20, 24, 
+offensiveLifeModifier = 16, 20, 24, 

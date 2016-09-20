@@ -1,0 +1,6 @@
+of Serenity,
+lootRandomizerJitter = 15.000000, 
+characterIntelligenceModifier = 4.25, 5, 5.75, 
+characterManaRegenModifier = 25.5, 30, 34.5, 
+levelRequirement = 70, 
+offensiveElementalModifier = 56.1, 66, 75.9, 

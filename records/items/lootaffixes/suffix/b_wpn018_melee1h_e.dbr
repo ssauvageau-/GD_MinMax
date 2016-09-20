@@ -1,0 +1,8 @@
+of Torrents,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 11.05, 13, 14.95, 
+levelRequirement = 70, 
+offensiveLightningMax = 15.3, 18, 20.7, 
+offensiveLightningMin = 1.7, 2, 2.3, 
+offensiveLightningModifier = 46.75, 55, 63.25, 
+offensiveSlowLightningModifier = 46.75, 55, 63.25, 

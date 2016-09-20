@@ -1,0 +1,8 @@
+of the Slayer,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 6.8, 8, 9.2, 
+levelRequirement = 74, 
+offensivePercentCurrentLifeMin = 5.1, 6, 6.9, 
+offensivePierceMin = 15.3, 18, 20.7, 
+offensivePierceModifier = 365.5, 430, 494.5, 
+offensivePierceModifierChance = 12.75, 15, 17.25, 

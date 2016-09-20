@@ -1,0 +1,7 @@
+Glacier,
+defensiveCold = 25, 25, 25, 
+defensiveFreeze = 100, 100, 100, 
+defensiveFreezeChance = 20, 20, 20, 
+levelRequirement = 25, 
+offensiveColdMin = 5, 5, 5, 
+offensiveColdModifier = 16, 16, 16, 

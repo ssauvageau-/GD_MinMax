@@ -1,0 +1,6 @@
+Incendiary Helm,
+attributeScalePercent = 30.000000, 
+defensiveFire = 14, 20, 26, 
+levelRequirement = 52, 
+offensiveFireModifier = 12.6, 18, 23.41, 
+offensiveSlowFireModifier = 7, 10, 13, 

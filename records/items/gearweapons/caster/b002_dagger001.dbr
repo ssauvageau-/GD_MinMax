@@ -1,0 +1,7 @@
+Adept's Spellblade,
+attributeScalePercent = 28.000000, 
+characterManaRegen = 1.08, 1.5, 1.92, 
+levelRequirement = 45, 
+offensiveChaosModifier = 38.88, 54, 69.12, 
+offensiveTotalResistanceReductionAbsoluteDurationMin = 3.6, 5, 6.4, 
+offensiveTotalResistanceReductionAbsoluteMin = 14.4, 20, 25.6, 

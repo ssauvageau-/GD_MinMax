@@ -1,0 +1,8 @@
+Paladin's,
+lootRandomizerJitter = 28.000000, 
+characterDefensiveAbility = 7.2, 10, 12.8, 
+characterLifeModifier = 2.88, 4, 5.12, 
+defensivePierce = 6.48, 9, 11.52, 
+levelRequirement = 10, 
+retaliationStunChance = 3.6, 5, 6.4, 
+retaliationStunMin = 1.44, 2, 2.56, 

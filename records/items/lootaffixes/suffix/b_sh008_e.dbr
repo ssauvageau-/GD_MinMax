@@ -1,0 +1,7 @@
+of Shattering,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 11.05, 13, 14.95, 
+defensiveFreeze = 21.25, 25, 28.75, 
+levelRequirement = 74, 
+offensiveColdModifier = 60.35, 71, 81.65, 
+offensiveSlowColdModifier = 60.35, 71, 81.65, 

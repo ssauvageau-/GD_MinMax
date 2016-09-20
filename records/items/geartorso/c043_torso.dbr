@@ -1,0 +1,7 @@
+Bloodreaper's Coat,
+attributeScalePercent = 30.000000, 
+characterLife = 311.5, 445, 578.5, 
+characterLifeRegenModifier = 9.1, 13, 16.91, 
+characterOffensiveAbilityModifier = 2.8, 4, 5.2, 
+defensivePierce = 24.5, 35, 45.5, 
+levelRequirement = 65, 

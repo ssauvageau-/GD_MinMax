@@ -1,0 +1,8 @@
+Stormcaller's Spellblade,
+attributeScalePercent = 30.000000, 
+characterSpellCastSpeedModifier = 9.8, 14, 18.2, 
+levelRequirement = 58, 
+offensiveLightningModifier = 68.6, 98, 127.4, 
+offensiveSlowLightningModifier = 68.6, 98, 127.4, 
+retaliationLightningMax = 291.2, 416, 540.81, 
+retaliationLightningMin = 0.7, 1, 1.3, 

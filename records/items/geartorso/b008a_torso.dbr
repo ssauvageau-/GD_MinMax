@@ -1,0 +1,5 @@
+Ascended Robes,
+characterManaRegen = 4, 4, 4, 
+characterSpellCastSpeedModifier = 4, 4, 4, 
+levelRequirement = 30, 
+offensiveElementalModifier = 9, 9, 9, 

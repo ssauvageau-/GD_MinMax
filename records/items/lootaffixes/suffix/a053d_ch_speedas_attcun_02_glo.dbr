@@ -1,0 +1,5 @@
+of the Rifthound,
+lootRandomizerJitter = 25.000000, 
+characterAttackSpeedModifier = 6, 8, 10, 
+characterDexterity = 12.75, 17, 21.25, 
+levelRequirement = 20, 

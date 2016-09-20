@@ -1,0 +1,7 @@
+Warped,
+lootRandomizerJitter = 15.000000, 
+conversionInType = Physical, 
+conversionOutType = Aether, 
+conversionPercentage = 8.5, 10, 11.5, 
+levelRequirement = 36, 
+offensiveAetherMin = 8.5, 10, 11.5, 

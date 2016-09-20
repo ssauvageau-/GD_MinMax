@@ -1,0 +1,8 @@
+Legion Mantle,
+attributeScalePercent = 20.000000, 
+characterManaRegen = 0.8, 1, 1.2, 
+defensiveAether = 9.61, 12, 14.4, 
+defensiveChaos = 9.61, 12, 14.4, 
+levelRequirement = 35, 
+offensiveAetherModifier = 16, 20, 24, 
+offensiveChaosModifier = 16, 20, 24, 

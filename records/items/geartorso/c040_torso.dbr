@@ -1,0 +1,8 @@
+Zolhan's Battle Plate,
+attributeScalePercent = 30.000000, 
+characterDeflectProjectile = 5.6, 8, 10.4, 
+characterStrength = 56, 80, 104, 
+defensivePierce = 16.8, 24, 31.21, 
+levelRequirement = 75, 
+offensivePhysicalModifier = 30.8, 44, 57.2, 
+offensivePierceModifier = 18.2, 26, 33.81, 

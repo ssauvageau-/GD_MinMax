@@ -1,0 +1,7 @@
+Heretic's Tome,
+characterManaRegen = 2.7, 2.7, 2.7, 
+characterOffensiveAbility = 15, 15, 15, 
+levelRequirement = 22, 
+offensiveChaosModifier = 32, 32, 32, 
+offensiveCritDamageModifier = 10, 10, 10, 
+offensiveFireModifier = 41, 41, 41, 

@@ -1,0 +1,6 @@
+Murderer's Coif,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 14, 20, 26, 
+levelRequirement = 70, 
+offensiveSlowBleedingDurationMin = 2.1, 3, 3.91, 
+offensiveSlowBleedingMin = 4.2, 6, 7.81, 

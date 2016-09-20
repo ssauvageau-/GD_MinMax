@@ -1,0 +1,7 @@
+Wyrmclaw,
+attributeScalePercent = 20.000000, 
+characterManaRegenModifier = 48, 60, 72, 
+characterOffensiveAbility = 25.6, 32, 38.4, 
+defensivePoison = 24, 30, 36, 
+levelRequirement = 40, 
+offensiveFireModifier = 52.81, 66, 79.2, 

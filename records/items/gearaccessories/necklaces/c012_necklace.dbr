@@ -1,0 +1,8 @@
+Bane of Nuram'Siin,
+attributeScalePercent = 30.000000, 
+characterEnergyAbsorptionPercent = 15.4, 22, 28.6, 
+characterIntelligence = 16.8, 24, 31.21, 
+characterOffensiveAbility = 24.5, 35, 45.5, 
+levelRequirement = 50, 
+offensiveColdMin = 4.2, 6, 7.81, 
+offensiveColdModifier = 28, 40, 52, 

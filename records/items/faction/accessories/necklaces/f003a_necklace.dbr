@@ -1,0 +1,6 @@
+Rhowari Lifecaller,
+attributeScalePercent = 20.000000, 
+characterLife = 128, 160, 192, 
+characterOffensiveAbility = 36, 45, 54, 
+levelRequirement = 40, 
+offensiveLifeModifier = 25.6, 32, 38.4, 

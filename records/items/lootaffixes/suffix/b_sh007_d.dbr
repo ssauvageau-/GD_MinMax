@@ -1,0 +1,8 @@
+of Wildfire,
+lootRandomizerJitter = 15.000000, 
+characterIntelligence = 23.8, 28, 32.2, 
+characterSpellCastSpeedModifier = 5.95, 7, 8.05, 
+levelRequirement = 58, 
+offensiveFireModifier = 52.7, 62, 71.3, 
+offensiveSlowFireModifier = 51.85, 61, 70.15, 
+retaliationFireMin = 97.75, 115, 132.25, 

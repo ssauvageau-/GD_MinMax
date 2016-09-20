@@ -1,0 +1,8 @@
+Alchemist's Belt,
+attributeScalePercent = 30.000000, 
+characterConstitutionModifier = 28, 40, 52, 
+characterIntelligence = 23.8, 34, 44.2, 
+defensivePoison = 43.4, 62, 80.61, 
+defensivePoisonMaxResist = 4.2, 6, 7.81, 
+levelRequirement = 75, 
+offensiveSlowPoisonModifier = 38.5, 55, 71.5, 

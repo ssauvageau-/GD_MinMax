@@ -1,0 +1,8 @@
+Combat Medic's Mark,
+attributeScalePercent = 20.000000, 
+characterLifeRegenModifier = 10.4, 13, 15.6, 
+characterManaRegen = 1.21, 1.5, 1.8, 
+characterStrength = 16, 20, 24, 
+defensiveBleeding = 32, 40, 48, 
+defensiveBlockAmountModifier = 12, 15, 18, 
+levelRequirement = 35, 

@@ -1,0 +1,7 @@
+Obsidian War Cleaver,
+attributeScalePercent = 50.000000, 
+characterSpellCastSpeedModifier = 2.5, 5, 7.5, 
+levelRequirement = 30, 
+offensivePhysicalMax = 218.000000, 
+offensivePhysicalMin = 127.000000, 
+offensivePhysicalModifier = 13, 26, 39, 

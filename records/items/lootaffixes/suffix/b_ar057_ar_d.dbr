@@ -1,0 +1,7 @@
+of Featherstep,
+lootRandomizerJitter = 15.000000, 
+characterRunSpeedModifier = 6.8, 8, 9.2, 
+defensivePierce = 22.1, 26, 29.9, 
+defensiveStun = 25.5, 30, 34.5, 
+defensiveTrap = 25.5, 30, 34.5, 
+levelRequirement = 72, 

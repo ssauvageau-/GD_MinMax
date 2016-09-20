@@ -1,0 +1,4 @@
+of Decay,
+lootRandomizerJitter = 20.000000, 
+levelRequirement = 16, 
+offensiveLifeModifier = 8, 10, 12, 

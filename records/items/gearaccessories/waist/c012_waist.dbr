@@ -1,0 +1,7 @@
+Warpath Girdle,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 16.8, 24, 31.21, 
+levelRequirement = 50, 
+offensiveCritDamageModifier = 4.9, 7, 9.1, 
+offensiveSlowBleedingModifier = 15.4, 22, 28.6, 
+offensiveSlowPhysicalModifier = 15.4, 22, 28.6, 

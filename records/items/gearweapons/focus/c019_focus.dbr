@@ -1,0 +1,8 @@
+Dementia,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 17.5, 25, 32.5, 
+characterMana = 283.5, 405, 526.5, 
+characterManaRegen = 3.22, 4.6, 5.98, 
+levelRequirement = 58, 
+offensiveAetherModifier = 58.8, 84, 109.2, 
+offensiveColdModifier = 46.2, 66, 85.8, 

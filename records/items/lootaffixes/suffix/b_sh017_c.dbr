@@ -1,0 +1,8 @@
+of Wildfire,
+lootRandomizerJitter = 18.000000, 
+defensiveFire = 28.71, 35, 41.3, 
+defensiveLightning = 18.05, 22, 25.96, 
+levelRequirement = 39, 
+offensiveFireMax = 5.74, 7, 8.26, 
+offensiveFireMin = 4.11, 5, 5.9, 
+retaliationFireMin = 127.11, 155, 182.9, 

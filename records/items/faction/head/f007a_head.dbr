@@ -1,0 +1,8 @@
+Harvest's Helm,
+attributeScalePercent = 20.000000, 
+characterLife = 252, 315, 378, 
+characterLifeRegen = 3.2, 4, 4.8, 
+characterLifeRegenModifier = 8, 10, 12, 
+levelRequirement = 35, 
+offensivePoisonModifier = 16, 20, 24, 
+offensiveSlowPoisonModifier = 16, 20, 24, 

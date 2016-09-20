@@ -1,0 +1,7 @@
+General's,
+lootRandomizerJitter = 28.000000, 
+characterIncreasedExperience = 3.6, 5, 6.4, 
+characterLifeModifier = 2.88, 4, 5.12, 
+characterManaModifier = 3.6, 5, 6.4, 
+characterOffensiveAbility = 5.04, 7, 8.96, 
+levelRequirement = 10, 

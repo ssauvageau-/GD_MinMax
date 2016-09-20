@@ -1,0 +1,6 @@
+of Battle Fury,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 55.25, 65, 74.75, 
+defensivePierce = 15.3, 18, 20.7, 
+levelRequirement = 72, 
+offensivePhysicalModifier = 27.2, 32, 36.8, 

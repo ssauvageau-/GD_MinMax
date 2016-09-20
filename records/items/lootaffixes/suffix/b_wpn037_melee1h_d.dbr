@@ -1,0 +1,8 @@
+of Shattered Reality,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 29.75, 35, 40.25, 
+levelRequirement = 60, 
+offensiveAetherMin = 6.8, 8, 9.2, 
+offensiveAetherModifier = 38.25, 45, 51.75, 
+offensiveChaosMin = 6.8, 8, 9.2, 
+offensiveChaosModifier = 38.25, 45, 51.75, 

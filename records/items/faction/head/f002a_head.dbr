@@ -1,0 +1,8 @@
+Devil's Cover,
+attributeScalePercent = 20.000000, 
+characterDexterity = 20, 25, 30, 
+characterIntelligence = 20, 25, 30, 
+characterOffensiveAbility = 20.8, 26, 31.2, 
+levelRequirement = 35, 
+offensiveElementalMin = 2.41, 3, 3.6, 
+offensiveElementalModifier = 12, 15, 18, 

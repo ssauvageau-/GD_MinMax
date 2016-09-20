@@ -1,0 +1,8 @@
+Bloodsworn Repeater,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 20, 25, 30, 
+levelRequirement = 30, 
+offensiveChaosModifier = 16, 20, 24, 
+offensivePhysicalMax = 32.000000, 
+offensivePhysicalMin = 18.000000, 
+offensivePierceRatioMin = 25.000000, 

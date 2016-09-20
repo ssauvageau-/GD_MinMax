@@ -1,0 +1,4 @@
+Derringer,
+offensivePhysicalMax = 43, 43, 43, 
+offensivePhysicalMin = 13, 13, 13, 
+offensivePierceRatioMin = 24, 24, 24, 

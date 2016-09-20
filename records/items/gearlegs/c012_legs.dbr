@@ -1,0 +1,7 @@
+Eastern Legguards,
+attributeScalePercent = 30.000000, 
+defensiveCold = 17.5, 25, 32.5, 
+defensiveLightning = 17.5, 25, 32.5, 
+levelRequirement = 58, 
+offensiveColdModifier = 14, 20, 26, 
+offensiveLightningModifier = 14, 20, 26, 

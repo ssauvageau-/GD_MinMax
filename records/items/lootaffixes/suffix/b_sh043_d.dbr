@@ -1,0 +1,7 @@
+of the Hurricane,
+lootRandomizerJitter = 15.000000, 
+defensiveStun = 21.25, 25, 28.75, 
+levelRequirement = 53, 
+offensiveLightningMax = 11.05, 13, 14.95, 
+offensiveLightningMin = 0.85, 1, 1.15, 
+offensiveLightningModifier = 34, 40, 46, 

@@ -1,0 +1,4 @@
+Howdah,
+offensivePhysicalMax = 16, 16, 16, 
+offensivePhysicalMin = 12, 12, 12, 
+offensivePierceRatioMin = 18, 18, 18, 

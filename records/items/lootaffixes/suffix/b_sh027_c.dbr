@@ -1,0 +1,8 @@
+of Death's Chill,
+lootRandomizerJitter = 18.000000, 
+characterOffensiveAbility = 12.3, 15, 17.7, 
+characterSpellCastSpeedModifier = 9.03, 11, 12.98, 
+levelRequirement = 43, 
+offensiveColdMin = 4.92, 6, 7.08, 
+offensiveColdModifier = 42.64, 52, 61.36, 
+offensiveLifeModifier = 42.64, 52, 61.36, 

@@ -1,0 +1,8 @@
+of Torrents,
+lootRandomizerJitter = 15.000000, 
+defensiveAether = 21.25, 25, 28.75, 
+defensiveBlockModifier = 6.8, 8, 9.2, 
+defensiveLightning = 51, 60, 69, 
+levelRequirement = 70, 
+offensiveLightningMax = 12.75, 15, 17.25, 
+offensiveLightningMin = 0.85, 1, 1.15, 

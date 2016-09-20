@@ -1,0 +1,6 @@
+Trickster's,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbilityModifier = 2.55, 3, 3.45, 
+levelRequirement = 90, 
+offensiveLightningModifier = 17, 20, 23, 
+offensivePierceModifier = 13.6, 16, 18.4, 

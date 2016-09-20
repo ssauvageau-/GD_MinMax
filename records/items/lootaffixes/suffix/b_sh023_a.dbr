@@ -1,0 +1,6 @@
+of Rituals,
+lootRandomizerJitter = 28.000000, 
+characterIntelligenceModifier = 2.16, 3, 3.84, 
+characterSpellCastSpeedModifier = 6.48, 9, 11.52, 
+levelRequirement = 10, 
+offensiveElementalModifier = 12.96, 18, 23.04, 

@@ -1,0 +1,7 @@
+of Shattering,
+lootRandomizerJitter = 15.000000, 
+characterStrengthModifier = 4.25, 5, 5.75, 
+defensiveBlockModifier = 7.65, 9, 10.35, 
+defensiveCold = 39.1, 46, 52.9, 
+defensiveFreeze = 25.5, 30, 34.5, 
+levelRequirement = 55, 

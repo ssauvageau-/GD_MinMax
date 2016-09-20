@@ -1,0 +1,8 @@
+Resonant,
+lootRandomizerJitter = 15.000000, 
+characterEnergyAbsorptionPercent = 12.75, 15, 17.25, 
+characterIntelligenceModifier = 3.4, 4, 4.6, 
+characterOffensiveAbility = 21.25, 25, 28.75, 
+defensiveElementalResistance = 10.2, 12, 13.8, 
+levelRequirement = 70, 
+offensiveElementalModifier = 17, 20, 23, 

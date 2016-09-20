@@ -1,0 +1,4 @@
+Restorative,
+lootRandomizerJitter = 25.000000, 
+characterLifeRegenModifier = 15, 20, 25, 
+levelRequirement = 32, 

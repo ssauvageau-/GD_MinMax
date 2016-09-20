@@ -1,0 +1,8 @@
+Sparkstone Scepter,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 1.12, 1.6, 2.08, 
+characterOffensiveAbility = 14, 20, 26, 
+levelRequirement = 50, 
+offensiveLightningModifier = 45.5, 65, 84.5, 
+offensiveSlowLightningModifier = 63, 90, 117, 
+offensiveStunModifier = 11.2, 16, 20.8, 

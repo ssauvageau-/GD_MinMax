@@ -1,0 +1,8 @@
+Sandstorm,
+lootRandomizerJitter = 18.000000, 
+characterManaRegen = 1.48, 1.8, 2.13, 
+characterSpellCastSpeedModifier = 4.11, 5, 5.9, 
+defensivePhysical = 4.92, 6, 7.08, 
+defensiveTotalSpeedResistance = 21.32, 26, 30.68, 
+levelRequirement = 60, 
+offensiveElementalModifier = 22.96, 28, 33.04, 

@@ -1,0 +1,7 @@
+Fleshwarped Bulwark,
+characterLifeRegen = 6, 6, 6, 
+characterLifeRegenModifier = 50, 50, 50, 
+defensiveBlock = 415, 415, 415, 
+defensiveBlockChance = 29, 29, 29, 
+levelRequirement = 35, 
+offensivePhysicalMin = 80, 80, 80, 

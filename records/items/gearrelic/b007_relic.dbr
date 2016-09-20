@@ -1,0 +1,8 @@
+Corruption,
+characterLife = 110, 110, 110, 
+characterSpellCastSpeedModifier = 5, 5, 5, 
+levelRequirement = 25, 
+offensiveChaosModifier = 10, 10, 10, 
+offensiveSlowPoisonModifier = 16, 16, 16, 
+retaliationSlowPoisonDurationMin = 5, 5, 5, 
+retaliationSlowPoisonMin = 35, 35, 35, 

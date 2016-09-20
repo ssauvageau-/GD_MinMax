@@ -1,0 +1,7 @@
+Demonic,
+lootRandomizerJitter = 18.000000, 
+characterManaRegen = 1.48, 1.8, 2.13, 
+characterOffensiveAbilityModifier = 2.46, 3, 3.54, 
+levelRequirement = 58, 
+offensiveChaosModifier = 26.25, 32, 37.76, 
+offensiveLifeModifier = 26.25, 32, 37.76, 

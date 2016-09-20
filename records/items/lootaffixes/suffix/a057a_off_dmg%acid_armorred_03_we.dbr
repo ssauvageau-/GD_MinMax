@@ -1,0 +1,7 @@
+of the Swamp,
+lootRandomizerJitter = 10.000000, 
+levelRequirement = 40, 
+offensivePoisonModifier = 31.5, 35, 38.5, 
+offensiveSlowDefensiveReductionChance = 9, 10, 11, 
+offensiveSlowDefensiveReductionDurationMin = 4.5, 5, 5.5, 
+offensiveSlowDefensiveReductionMin = 162, 180, 198.01, 

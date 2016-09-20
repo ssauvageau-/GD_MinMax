@@ -1,0 +1,6 @@
+Lorekeeper's Band,
+characterManaRegen = 1.1, 1.1, 1.1, 
+characterSpellCastSpeedModifier = 5, 5, 5, 
+defensiveLightning = 20, 20, 20, 
+levelRequirement = 21, 
+offensiveElementalModifier = 12, 12, 12, 

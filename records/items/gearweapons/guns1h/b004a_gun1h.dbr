@@ -1,0 +1,7 @@
+Bloodsworn Pistol,
+attributeScalePercent = 20.000000, 
+levelRequirement = 30, 
+offensiveChaosModifier = 16, 20, 24, 
+offensivePhysicalMax = 30.000000, 
+offensivePhysicalMin = 20.000000, 
+offensivePierceRatioMin = 25.000000, 

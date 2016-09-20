@@ -1,0 +1,8 @@
+Rhowari Winter Codex,
+attributeScalePercent = 38.000000, 
+characterManaRegen = 3.54, 5.7, 7.87, 
+characterOffensiveAbility = 20.46, 33, 45.54, 
+defensiveTotalSpeedResistance = 15.5, 25, 34.5, 
+levelRequirement = 50, 
+offensiveColdMin = 6.2, 10, 13.8, 
+offensiveColdModifier = 52.7, 85, 117.3, 

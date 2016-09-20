@@ -1,0 +1,7 @@
+Adept's Flanged Mace,
+attributeScalePercent = 38.000000, 
+levelRequirement = 62, 
+offensiveElementalMin = 6.82, 11, 15.18, 
+offensivePhysicalMax = 138.000000, 
+offensivePhysicalMin = 54.000000, 
+offensiveTotalDamageModifier = 15.5, 25, 34.5, 

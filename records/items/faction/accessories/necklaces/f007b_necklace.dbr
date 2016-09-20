@@ -1,0 +1,8 @@
+Grasp of the Reaper,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 4.9, 7, 9.1, 
+defensiveColdMaxResist = 7, 10, 13, 
+levelRequirement = 55, 
+offensiveColdMin = 4.9, 7, 9.1, 
+offensiveColdModifier = 31.5, 45, 58.5, 
+offensivePierceModifier = 14, 20, 26, 

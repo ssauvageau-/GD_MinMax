@@ -1,0 +1,6 @@
+Devil's Girdle,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 31.5, 45, 58.5, 
+characterDodgePercent = 3.5, 5, 6.5, 
+defensiveBleedingDuration = 35, 50, 65, 
+levelRequirement = 70, 

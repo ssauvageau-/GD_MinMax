@@ -1,0 +1,8 @@
+Blacksteel Gauntlets,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 45.5, 65, 84.5, 
+characterStrength = 12.6, 18, 23.41, 
+defensivePhysical = 3.5, 5, 6.5, 
+levelRequirement = 67, 
+retaliationPierceMin = 127.4, 182, 236.6, 
+retaliationTotalDamageModifier = 35, 50, 65, 

@@ -1,0 +1,8 @@
+Warlord's Spaulders,
+attributeScalePercent = 30.000000, 
+characterStrength = 56, 80, 104, 
+defensiveAbsorptionModifier = 7, 10, 13, 
+defensiveBlockAmountModifier = 10.5, 15, 19.5, 
+defensivePierce = 22.4, 32, 41.6, 
+defensiveProtectionModifier = 3.5, 5, 6.5, 
+levelRequirement = 75, 

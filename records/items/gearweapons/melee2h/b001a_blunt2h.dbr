@@ -1,0 +1,6 @@
+Troll Bonesmasher,
+attributeScalePercent = 30.000000, 
+levelRequirement = 21, 
+offensivePhysicalMax = 202.000000, 
+offensivePhysicalMin = 52.000000, 
+offensiveSlowBleedingModifier = 22.4, 32, 41.6, 

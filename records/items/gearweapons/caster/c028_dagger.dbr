@@ -1,0 +1,7 @@
+Voidblade,
+attributeScalePercent = 30.000000, 
+characterIntelligence = 28, 40, 52, 
+characterManaRegenModifier = 10.5, 15, 19.5, 
+defensiveChaos = 17.5, 25, 32.5, 
+levelRequirement = 58, 
+offensiveChaosModifier = 76.3, 109, 141.71, 

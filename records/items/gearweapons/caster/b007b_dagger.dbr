@@ -1,0 +1,8 @@
+Witch's Spellblade,
+attributeScalePercent = 38.000000, 
+characterManaRegen = 0.44, 0.7, 0.97, 
+characterOffensiveAbility = 19.22, 31, 42.78, 
+characterSpellCastSpeedModifier = 7.44, 12, 16.56, 
+levelRequirement = 52, 
+offensiveCritDamageModifier = 3.72, 6, 8.28, 
+offensiveElementalModifier = 47.74, 77, 106.26, 

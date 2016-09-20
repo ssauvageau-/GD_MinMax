@@ -1,0 +1,8 @@
+Solar Channelling Stone,
+attributeScalePercent = 20.000000, 
+characterDexterity = 11.21, 14, 16.8, 
+levelRequirement = 40, 
+offensiveFireMin = 1.6, 2, 2.4, 
+offensiveFireModifier = 25.6, 32, 38.4, 
+offensiveSlowFireDurationModifier = 24, 30, 36, 
+offensiveSlowFireModifier = 17.6, 22, 26.4, 

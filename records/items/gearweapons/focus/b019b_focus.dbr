@@ -1,0 +1,5 @@
+Groble Ember Effigy,
+characterManaRegenModifier = 50, 50, 50, 
+levelRequirement = 20, 
+offensiveCritDamageModifier = 5, 5, 5, 
+offensiveFireModifier = 24, 24, 24, 

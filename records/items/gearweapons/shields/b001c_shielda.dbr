@@ -1,0 +1,7 @@
+Warden's Bulwark,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 371, 530, 689, 
+defensiveBlockChance = 21, 30, 39, 
+defensivePhysical = 5.6, 8, 10.4, 
+levelRequirement = 52, 
+offensivePhysicalMin = 101.000000, 

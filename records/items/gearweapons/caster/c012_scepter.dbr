@@ -1,0 +1,8 @@
+Firestorm Scepter,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 18.2, 26, 33.81, 
+levelRequirement = 50, 
+offensiveFireModifier = 45.5, 65, 84.5, 
+offensiveSlowFireDurationMin = 2.1, 3, 3.91, 
+offensiveSlowFireMin = 14, 20, 26, 
+offensiveSlowFireModifier = 63, 90, 117, 

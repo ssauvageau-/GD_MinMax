@@ -1,0 +1,8 @@
+Quickening Gem,
+attributeScalePercent = 20.000000, 
+characterManaRegen = 1.21, 1.5, 1.8, 
+characterSpellCastSpeedModifier = 4.81, 6, 7.2, 
+levelRequirement = 32, 
+offensiveLightningModifier = 14.4, 18, 21.6, 
+offensiveSlowLightningModifier = 10.4, 13, 15.6, 
+offensiveStunModifier = 9.61, 12, 14.4, 

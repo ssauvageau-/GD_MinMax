@@ -1,0 +1,5 @@
+Greatsword,
+attributeScalePercent = 60.000000, 
+offensivePhysicalMax = 290.000000, 
+offensivePhysicalMin = 155.000000, 
+offensivePierceRatioMin = 25.000000, 

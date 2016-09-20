@@ -1,0 +1,7 @@
+Gunslinger's Talisman,
+characterAttackSpeedModifier = 6, 6, 6, 
+defensivePierce = 15, 15, 15, 
+levelRequirement = 25, 
+offensiveElementalMax = 8, 8, 8, 
+offensiveElementalMin = 6, 6, 6, 
+offensiveTotalDamageModifier = 8, 8, 8, 

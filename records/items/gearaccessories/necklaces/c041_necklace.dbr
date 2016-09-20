@@ -1,0 +1,8 @@
+Lapis Mantichora,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 45.5, 65, 84.5, 
+levelRequirement = 75, 
+offensiveCritDamageModifier = 3.5, 5, 6.5, 
+offensivePhysicalModifier = 30.8, 44, 57.2, 
+offensiveSlowBleedingDurationModifier = 21, 30, 39, 
+offensiveSlowBleedingModifier = 42, 60, 78, 

@@ -1,0 +1,6 @@
+Dominator's,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 21.25, 25, 28.75, 
+defensiveElementalResistance = 11.9, 14, 16.1, 
+levelRequirement = 68, 
+offensiveTotalDamageModifier = 12.75, 15, 17.25, 

@@ -1,0 +1,4 @@
+Draining,
+lootRandomizerJitter = 25.000000, 
+levelRequirement = 18, 
+offensiveManaBurnDrainMin = 9, 12, 15, 

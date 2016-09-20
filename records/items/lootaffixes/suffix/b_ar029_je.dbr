@@ -1,0 +1,8 @@
+of Vicious Barbs,
+lootRandomizerJitter = 28.000000, 
+characterLife = 57.6, 80, 102.4, 
+levelRequirement = 14, 
+offensivePierceModifier = 2.88, 4, 5.12, 
+offensiveSlowBleedingModifier = 5.76, 8, 10.24, 
+retaliationSlowBleedingDurationMin = 2.16, 3, 3.84, 
+retaliationSlowBleedingMin = 7.2, 10, 12.8, 

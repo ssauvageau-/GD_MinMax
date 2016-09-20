@@ -1,0 +1,7 @@
+Imposing,
+lootRandomizerJitter = 15.000000, 
+characterLife = 255, 300, 345, 
+characterLifeModifier = 2.55, 3, 3.45, 
+characterStrengthModifier = 3.4, 4, 4.6, 
+levelRequirement = 66, 
+offensivePhysicalModifier = 29.75, 35, 40.25, 

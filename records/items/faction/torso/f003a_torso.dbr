@@ -1,0 +1,8 @@
+Outcast's Sky Vestments,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 7.2, 9, 10.8, 
+characterManaRegen = 3.84, 4.8, 5.76, 
+defensiveLightning = 16, 20, 24, 
+levelRequirement = 35, 
+offensiveLightningModifier = 16, 20, 24, 
+offensiveSlowLightningModifier = 20, 25, 30, 

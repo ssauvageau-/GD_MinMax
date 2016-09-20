@@ -1,0 +1,7 @@
+of the Glacier,
+lootRandomizerJitter = 15.000000, 
+characterLifeModifier = 4.25, 5, 5.75, 
+defensiveFreeze = 21.25, 25, 28.75, 
+levelRequirement = 53, 
+offensiveColdMin = 5.95, 7, 8.05, 
+offensiveColdModifier = 34, 40, 46, 

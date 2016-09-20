@@ -1,0 +1,6 @@
+Druid's,
+lootRandomizerJitter = 15.000000, 
+characterLifeRegen = 8.5, 10, 11.5, 
+levelRequirement = 65, 
+offensiveAetherModifier = 11.9, 14, 16.1, 
+offensiveLightningModifier = 11.9, 14, 16.1, 

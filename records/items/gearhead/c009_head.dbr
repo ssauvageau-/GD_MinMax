@@ -1,0 +1,6 @@
+Bloodreaper's Cowl,
+characterDexterity = 35, 35, 35, 
+levelRequirement = 30, 
+retaliationSlowBleedingDurationMin = 3, 3, 3, 
+retaliationSlowBleedingMax = 67, 67, 67, 
+retaliationSlowBleedingMin = 44, 44, 44, 

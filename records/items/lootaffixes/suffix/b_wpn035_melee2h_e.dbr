@@ -1,0 +1,7 @@
+of Fallen Skies,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 74, 
+offensiveColdMin = 15.3, 18, 20.7, 
+offensiveColdModifier = 76.5, 90, 103.5, 
+offensiveLightningMin = 15.3, 18, 20.7, 
+offensiveLightningModifier = 76.5, 90, 103.5, 

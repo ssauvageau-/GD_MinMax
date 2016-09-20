@@ -1,0 +1,8 @@
+Aetherfire,
+lootRandomizerJitter = 15.000000, 
+characterManaRegen = 0.94, 1.1, 1.27, 
+characterOffensiveAbility = 21.25, 25, 28.75, 
+defensiveAether = 11.9, 14, 16.1, 
+levelRequirement = 68, 
+offensiveAetherModifier = 22.95, 27, 31.05, 
+offensiveFireModifier = 22.95, 27, 31.05, 

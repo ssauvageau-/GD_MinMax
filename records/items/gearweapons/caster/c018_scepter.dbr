@@ -1,0 +1,7 @@
+Cosmic Invoker,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 1.12, 1.6, 2.08, 
+characterOffensiveAbility = 33.6, 48, 62.41, 
+levelRequirement = 65, 
+offensiveAetherModifier = 66.5, 95, 123.5, 
+offensiveChaosModifier = 52.5, 75, 97.5, 

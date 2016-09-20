@@ -1,0 +1,5 @@
+Squire's Boots,
+characterLife = 105, 105, 105, 
+characterRunSpeedModifier = 5, 5, 5, 
+levelRequirement = 24, 
+offensivePhysicalModifier = 12, 12, 12, 

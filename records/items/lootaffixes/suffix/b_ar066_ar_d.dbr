@@ -1,0 +1,7 @@
+of Aether Storms,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 7.65, 9, 10.35, 
+characterSpellCastSpeedModifier = 10.2, 12, 13.8, 
+levelRequirement = 72, 
+offensiveAetherModifier = 27.2, 32, 36.8, 
+offensiveLightningModifier = 27.2, 32, 36.8, 

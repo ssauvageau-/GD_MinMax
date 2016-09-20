@@ -1,0 +1,8 @@
+Dermapteran Slicer,
+attributeScalePercent = 38.000000, 
+levelRequirement = 70, 
+offensivePhysicalMax = 91.000000, 
+offensivePhysicalMin = 66.000000, 
+offensivePierceMin = 7.44, 12, 16.56, 
+offensivePierceModifier = 18.6, 30, 41.4, 
+offensivePierceRatioMin = 50.000000, 

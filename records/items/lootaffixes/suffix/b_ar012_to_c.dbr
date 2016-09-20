@@ -1,0 +1,8 @@
+of Blades,
+lootRandomizerJitter = 18.000000, 
+characterLife = 270.6, 330, 389.4, 
+defensiveProtectionModifier = 4.11, 5, 5.9, 
+levelRequirement = 53, 
+retaliationPierceMax = 122.18, 149, 175.82, 
+retaliationPierceMin = 94.31, 115, 135.7, 
+retaliationTotalDamageModifier = 20.5, 25, 29.5, 

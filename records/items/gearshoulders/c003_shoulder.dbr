@@ -1,0 +1,7 @@
+Warlord's Spaulders,
+characterStrength = 38, 38, 38, 
+defensiveAbsorptionModifier = 10, 10, 10, 
+defensiveBlockAmountModifier = 10, 10, 10, 
+defensivePierce = 16, 16, 16, 
+defensiveProtectionModifier = 4, 4, 4, 
+levelRequirement = 28, 

@@ -1,0 +1,7 @@
+Hulking Legguards,
+attributeScalePercent = 30.000000, 
+characterStrength = 17.5, 25, 32.5, 
+defensivePhysical = 3.5, 5, 6.5, 
+levelRequirement = 50, 
+offensivePhysicalModifier = 28, 40, 52, 
+offensiveSlowPhysicalModifier = 21, 30, 39, 

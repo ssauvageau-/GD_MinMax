@@ -1,0 +1,8 @@
+Void-Touched,
+lootRandomizerJitter = 25.000000, 
+conversionInType = Physical, 
+conversionOutType = Chaos, 
+conversionPercentage = 7.5, 10, 12.5, 
+levelRequirement = 16, 
+offensiveChaosMax = 6, 8, 10, 
+offensiveChaosMin = 2.25, 3, 3.75, 

@@ -1,0 +1,7 @@
+Blackwood Staff,
+attributeScalePercent = 40.000000, 
+characterSpellCastSpeedModifier = 30, 50, 70, 
+levelRequirement = 32, 
+offensivePhysicalMax = 53.000000, 
+offensivePhysicalMin = 19.000000, 
+offensivePierceRatioMin = 25.000000, 

@@ -1,0 +1,7 @@
+Soulcarver,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 21, 30, 39, 
+levelRequirement = 75, 
+offensiveLifeLeechMin = 2.8, 4, 5.2, 
+offensiveLifeModifier = 70.7, 101, 131.3, 
+offensivePercentCurrentLifeMin = 4.2, 6, 7.81, 

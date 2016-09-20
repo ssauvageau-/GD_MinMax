@@ -1,0 +1,8 @@
+Oldenar's Stabilizer,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 49, 70, 91, 
+characterDefensiveAbilityModifier = 2.8, 4, 5.2, 
+defensiveBleeding = 14, 20, 26, 
+defensiveBleedingMaxResist = 4.2, 6, 7.81, 
+defensiveStun = 35, 50, 65, 
+levelRequirement = 58, 

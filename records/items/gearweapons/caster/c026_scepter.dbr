@@ -1,0 +1,7 @@
+Chillheart Scepter,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 9.8, 14, 18.2, 
+characterSpellCastSpeedModifier = 8.4, 12, 15.61, 
+levelRequirement = 65, 
+offensiveColdMin = 9.8, 14, 18.2, 
+offensiveColdModifier = 80.5, 115, 149.5, 

@@ -1,0 +1,7 @@
+Myrmidon Revered Star,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 40.6, 58, 75.4, 
+defensiveBlockAmountModifier = 12.6, 18, 23.41, 
+defensivePierce = 35.7, 51, 66.3, 
+defensivePierceMaxResist = 2.8, 4, 5.2, 
+levelRequirement = 72, 

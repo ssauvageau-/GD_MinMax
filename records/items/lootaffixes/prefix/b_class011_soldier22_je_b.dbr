@@ -1,0 +1,6 @@
+Warrior's,
+lootRandomizerJitter = 15.000000, 
+defensiveBlockAmountModifier = 12.75, 15, 17.25, 
+defensivePierce = 17, 20, 23, 
+levelRequirement = 65, 
+offensivePhysicalModifier = 21.25, 25, 28.75, 

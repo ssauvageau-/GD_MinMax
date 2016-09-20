@@ -1,0 +1,8 @@
+Devil's Badge of Frost,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 25.6, 32, 38.4, 
+defensiveProtectionModifier = 2.41, 3, 3.6, 
+levelRequirement = 40, 
+offensiveColdMin = 4, 5, 6, 
+offensiveColdModifier = 25.6, 32, 38.4, 
+offensiveSlowColdModifier = 17.6, 22, 26.4, 

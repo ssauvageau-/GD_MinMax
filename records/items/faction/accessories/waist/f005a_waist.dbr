@@ -1,0 +1,6 @@
+Death's Cord,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 32, 40, 48, 
+defensiveTotalSpeedResistance = 20, 25, 30, 
+levelRequirement = 35, 
+offensiveElementalModifier = 12, 15, 18, 

@@ -1,0 +1,7 @@
+Plagueblood Carver,
+levelRequirement = 25, 
+offensiveSlowBleedingModifier = 20, 20, 20, 
+offensiveSlowPoisonModifier = 53, 53, 53, 
+retaliationSlowPoisonChance = 10, 10, 10, 
+retaliationSlowPoisonDurationMin = 5, 5, 5, 
+retaliationSlowPoisonMin = 170, 170, 170, 

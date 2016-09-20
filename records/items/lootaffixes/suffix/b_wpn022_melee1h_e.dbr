@@ -1,0 +1,8 @@
+of the Abomination,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 34, 40, 46, 
+characterStrength = 25.5, 30, 34.5, 
+levelRequirement = 68, 
+offensiveAetherMin = 8.5, 10, 11.5, 
+offensiveAetherModifier = 46.75, 55, 63.25, 
+offensivePhysicalModifier = 23.8, 28, 32.2, 

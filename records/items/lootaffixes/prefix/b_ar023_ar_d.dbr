@@ -1,0 +1,8 @@
+Formidable,
+lootRandomizerJitter = 15.000000, 
+characterConstitutionModifier = 12.75, 15, 17.25, 
+characterStrength = 23.8, 28, 32.2, 
+defensiveElementalResistance = 10.2, 12, 13.8, 
+defensivePhysical = 3.4, 4, 4.6, 
+levelRequirement = 70, 
+offensivePhysicalModifier = 17, 20, 23, 

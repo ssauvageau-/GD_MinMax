@@ -1,0 +1,8 @@
+Spellbinder's Grip,
+attributeScalePercent = 30.000000, 
+characterIntelligenceModifier = 2.1, 3, 3.91, 
+characterOffensiveAbility = 16.8, 24, 31.21, 
+characterSpellCastSpeedModifier = 9.8, 14, 18.2, 
+levelRequirement = 75, 
+offensiveChaosModifier = 31.5, 45, 58.5, 
+offensiveTotalDamageModifier = 12.6, 18, 23.41, 

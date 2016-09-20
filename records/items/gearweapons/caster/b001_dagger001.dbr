@@ -1,0 +1,6 @@
+Adept's Dagger,
+characterManaRegen = 1, 1, 1, 
+levelRequirement = 30, 
+offensiveChaosModifier = 40, 40, 40, 
+offensiveTotalResistanceReductionAbsoluteDurationMin = 5, 5, 5, 
+offensiveTotalResistanceReductionAbsoluteMin = 15, 15, 15, 

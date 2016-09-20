@@ -1,0 +1,8 @@
+Beast Slayer's Mark,
+attributeScalePercent = 30.000000, 
+characterLife = 112, 160, 208, 
+characterOffensiveAbility = 65.8, 94, 122.2, 
+levelRequirement = 58, 
+offensivePhysicalMax = 6.000000, 
+offensivePhysicalMin = 4.000000, 
+offensivePhysicalModifier = 22.4, 32, 41.6, 

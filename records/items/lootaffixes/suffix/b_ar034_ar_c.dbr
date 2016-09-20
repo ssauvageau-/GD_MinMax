@@ -1,0 +1,7 @@
+of Survival,
+lootRandomizerJitter = 18.000000, 
+characterConstitutionModifier = 20.5, 25, 29.5, 
+characterDefensiveAbilityModifier = 2.46, 3, 3.54, 
+characterRunSpeedModifier = 5.74, 7, 8.26, 
+characterStrength = 22.96, 28, 33.04, 
+levelRequirement = 58, 

@@ -1,0 +1,7 @@
+Cortosian Invoker,
+attributeScalePercent = 20.000000, 
+characterIntelligence = 16, 20, 24, 
+characterSpellCastSpeedModifier = 6.4, 8, 9.6, 
+defensiveElementalResistance = 8, 10, 12, 
+levelRequirement = 35, 
+offensiveElementalModifier = 43.2, 54, 64.8, 

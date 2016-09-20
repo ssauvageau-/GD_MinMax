@@ -1,0 +1,8 @@
+Occult Effigy,
+attributeScalePercent = 30.000000, 
+characterManaRegenModifier = 42, 60, 78, 
+levelRequirement = 62, 
+offensiveLifeModifier = 15.4, 22, 28.6, 
+offensiveSlowPoisonDurationMin = 3.5, 5, 6.5, 
+offensiveSlowPoisonMin = 7, 10, 13, 
+offensiveSlowPoisonModifier = 31.5, 45, 58.5, 

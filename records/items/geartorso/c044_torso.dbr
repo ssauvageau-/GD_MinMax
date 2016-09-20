@@ -1,0 +1,8 @@
+Miasma Robes,
+attributeScalePercent = 30.000000, 
+characterIntelligence = 38.5, 55, 71.5, 
+characterLifeRegenModifier = 12.6, 18, 23.41, 
+characterManaRegen = 3.5, 5, 6.5, 
+levelRequirement = 65, 
+offensivePoisonModifier = 21, 30, 39, 
+offensiveSlowPoisonModifier = 21, 30, 39, 

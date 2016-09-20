@@ -1,0 +1,7 @@
+of Heroism,
+lootRandomizerJitter = 28.000000, 
+characterDexterityModifier = 1.44, 2, 2.56, 
+characterStrengthModifier = 1.44, 2, 2.56, 
+levelRequirement = 10, 
+offensivePhysicalModifier = 5.04, 7, 8.96, 
+offensiveSlowPhysicalModifier = 5.04, 7, 8.96, 

@@ -1,0 +1,8 @@
+Seal of the Blazing Inferno,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 46.41, 58, 69.6, 
+levelRequirement = 35, 
+offensiveFireModifier = 9.61, 12, 14.4, 
+offensiveSlowFireModifier = 20, 25, 30, 
+retaliationSlowFireDurationMin = 2.41, 3, 3.6, 
+retaliationSlowFireMin = 36, 45, 54, 

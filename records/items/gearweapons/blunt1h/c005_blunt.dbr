@@ -1,0 +1,5 @@
+Blackwood Wand,
+characterIntelligence = 13, 13, 13, 
+levelRequirement = 25, 
+offensiveAetherMin = 7, 7, 7, 
+offensiveAetherModifier = 15, 15, 15, 

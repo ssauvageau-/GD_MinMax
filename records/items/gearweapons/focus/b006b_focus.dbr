@@ -1,0 +1,7 @@
+Witch's Effigy,
+attributeScalePercent = 30.000000, 
+characterLife = 112, 160, 208, 
+characterManaRegenModifier = 40.6, 58, 75.4, 
+characterOffensiveAbility = 24.5, 35, 45.5, 
+levelRequirement = 52, 
+offensiveTotalDamageModifier = 21, 30, 39, 

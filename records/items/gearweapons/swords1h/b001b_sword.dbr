@@ -1,0 +1,7 @@
+Salazar's Sovereign Blade,
+attributeScalePercent = 28.000000, 
+characterOffensiveAbility = 18, 25, 32, 
+levelRequirement = 32, 
+offensivePhysicalMax = 64.000000, 
+offensivePhysicalMin = 20.000000, 
+offensivePierceRatioMin = 20.000000, 

@@ -1,0 +1,8 @@
+Cutthroat's,
+lootRandomizerJitter = 28.000000, 
+characterAttackSpeedModifier = 2.16, 3, 3.84, 
+characterDexterityModifier = 2.16, 3, 3.84, 
+levelRequirement = 14, 
+offensivePierceMax = 2.16, 3, 3.84, 
+offensivePierceMin = 0.72, 1, 1.28, 
+offensivePierceModifier = 6.48, 9, 11.52, 

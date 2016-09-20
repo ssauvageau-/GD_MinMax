@@ -1,0 +1,4 @@
+Murderer's Armor,
+characterDefensiveAbility = 10, 10, 10, 
+characterDeflectProjectile = 8, 8, 8, 
+levelRequirement = 19, 

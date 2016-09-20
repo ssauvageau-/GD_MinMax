@@ -1,0 +1,7 @@
+Light Bringer's,
+lootRandomizerJitter = 28.000000, 
+characterIntelligenceModifier = 2.16, 3, 3.84, 
+characterLightRadius = 18, 25, 32, 
+characterSpellCastSpeedModifier = 2.88, 4, 5.12, 
+levelRequirement = 12, 
+offensiveElementalModifier = 5.04, 7, 8.96, 

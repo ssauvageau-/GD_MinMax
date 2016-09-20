@@ -1,0 +1,8 @@
+Heretic's Tome,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 3.71, 5.3, 6.89, 
+characterOffensiveAbility = 23.8, 34, 44.2, 
+levelRequirement = 75, 
+offensiveChaosModifier = 49, 70, 91, 
+offensiveCritDamageModifier = 7, 10, 13, 
+offensiveFireModifier = 65.8, 94, 122.2, 

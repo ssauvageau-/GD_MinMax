@@ -1,0 +1,7 @@
+of Menhir's Wall,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbilityModifier = 2.55, 3, 3.45, 
+defensiveBleeding = 39.1, 46, 52.9, 
+defensivePierce = 27.2, 32, 36.8, 
+defensiveProtectionModifier = 5.1, 6, 6.9, 
+levelRequirement = 57, 

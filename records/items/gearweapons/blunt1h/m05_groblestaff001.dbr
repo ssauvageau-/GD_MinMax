@@ -1,0 +1,8 @@
+Cedar Staff
+tagWeaponArcaneA006,
+attributeScalePercent = 30.000000, 
+characterSpellCastSpeedModifier = 28, 40, 52, 
+levelRequirement = 21, 
+offensivePhysicalMax = 39.000000, 
+offensivePhysicalMin = 13.000000, 
+offensivePierceRatioMin = 25.000000, 

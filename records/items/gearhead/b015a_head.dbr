@@ -1,0 +1,6 @@
+Spectral Crown,
+characterLifeModifier = 7, 7, 7, 
+characterManaRegen = 2, 2, 2, 
+defensivePercentCurrentLife = 25, 25, 25, 
+levelRequirement = 30, 
+offensiveLifeModifier = 12, 12, 12, 

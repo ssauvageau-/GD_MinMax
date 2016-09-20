@@ -1,0 +1,4 @@
+Corrosive,
+lootRandomizerJitter = 25.000000, 
+offensivePoisonMax = 2.25, 3, 3.75, 
+offensivePoisonMin = 0.75, 1, 1.25, 

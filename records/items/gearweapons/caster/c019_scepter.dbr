@@ -1,0 +1,8 @@
+Stormtrap,
+attributeScalePercent = 30.000000, 
+levelRequirement = 75, 
+offensiveLightningModifier = 75.6, 108, 140.4, 
+offensiveSlowLightningDurationModifier = 21, 30, 39, 
+offensiveSlowLightningModifier = 98, 140, 182, 
+retaliationSlowLightningDurationMin = 2.1, 3, 3.91, 
+retaliationSlowLightningMin = 106.4, 152, 197.6, 

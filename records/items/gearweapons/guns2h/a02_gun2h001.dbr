@@ -1,0 +1,5 @@
+Bolt-Action Rifle,
+attributeScalePercent = 22.000000, 
+offensivePhysicalMax = 57.000000, 
+offensivePhysicalMin = 20.000000, 
+offensivePierceRatioMin = 23.000000, 

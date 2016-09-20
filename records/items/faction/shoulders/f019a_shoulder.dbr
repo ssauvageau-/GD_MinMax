@@ -1,0 +1,8 @@
+Death's Pauldrons,
+attributeScalePercent = 20.000000, 
+characterLifeRegenModifier = 8, 10, 12, 
+defensiveLife = 9.61, 12, 14.4, 
+defensivePhysical = 4, 5, 6, 
+levelRequirement = 35, 
+offensiveLifeModifier = 16, 20, 24, 
+offensivePhysicalModifier = 16, 20, 24, 

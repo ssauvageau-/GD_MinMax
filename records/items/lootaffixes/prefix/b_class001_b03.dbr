@@ -1,0 +1,6 @@
+Commando's,
+lootRandomizerJitter = 15.000000, 
+characterDefensiveAbilityModifier = 3.4, 4, 4.6, 
+levelRequirement = 90, 
+offensiveFireModifier = 17, 20, 23, 
+offensivePhysicalModifier = 17, 20, 23, 

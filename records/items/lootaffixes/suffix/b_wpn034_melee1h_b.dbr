@@ -1,0 +1,8 @@
+of Voidfire,
+lootRandomizerJitter = 22.000000, 
+characterSpellCastSpeedModifier = 5.46, 7, 8.54, 
+levelRequirement = 35, 
+offensiveChaosMin = 3.91, 5, 6.1, 
+offensiveChaosModifier = 24.18, 31, 37.82, 
+offensiveFireMin = 3.91, 5, 6.1, 
+offensiveFireModifier = 24.18, 31, 37.82, 

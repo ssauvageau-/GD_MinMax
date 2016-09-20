@@ -1,0 +1,7 @@
+Devil's War Seal,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 31.5, 45, 58.5, 
+characterLifeModifier = 2.1, 3, 3.91, 
+characterLifeRegen = 7, 10, 13, 
+levelRequirement = 75, 
+offensivePhysicalModifier = 39.2, 56, 72.8, 

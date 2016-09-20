@@ -1,0 +1,7 @@
+of Immortality,
+lootRandomizerJitter = 15.000000, 
+characterLife = 603.5, 710, 816.5, 
+characterLifeRegen = 8.5, 10, 11.5, 
+characterLifeRegenModifier = 12.75, 15, 17.25, 
+defensiveElementalResistance = 25.5, 30, 34.5, 
+levelRequirement = 74, 

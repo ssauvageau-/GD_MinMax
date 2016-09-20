@@ -1,0 +1,6 @@
+of the Slith,
+lootRandomizerJitter = 15.000000, 
+defensivePoison = 21.25, 25, 28.75, 
+levelRequirement = 68, 
+offensiveSlowPoisonDurationModifier = 34, 40, 46, 
+offensiveSlowPoisonModifier = 34.85, 41, 47.15, 

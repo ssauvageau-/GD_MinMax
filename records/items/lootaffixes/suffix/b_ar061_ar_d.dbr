@@ -1,0 +1,7 @@
+of Arcane Winds,
+lootRandomizerJitter = 15.000000, 
+characterDodgePercent = 3.4, 4, 4.6, 
+characterIntelligence = 40.8, 48, 55.2, 
+characterManaRegen = 1.28, 1.5, 1.73, 
+characterRunSpeedModifier = 2.55, 3, 3.45, 
+levelRequirement = 72, 

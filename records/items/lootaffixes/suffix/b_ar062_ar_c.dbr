@@ -1,0 +1,8 @@
+of Rapid Reflexes,
+lootRandomizerJitter = 18.000000, 
+characterAttackSpeedModifier = 9.84, 12, 14.16, 
+characterDexterity = 22.96, 28, 33.04, 
+characterMeleeDexterityReqReduction = 8.21, 10, 11.8, 
+characterSpellCastSpeedModifier = 7.39, 9, 10.62, 
+defensiveStun = 16.41, 20, 23.6, 
+levelRequirement = 52, 

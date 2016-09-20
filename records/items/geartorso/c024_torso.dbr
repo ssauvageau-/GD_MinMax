@@ -1,0 +1,8 @@
+Eastern Robes,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 10.5, 15, 19.5, 
+characterManaRegen = 4.13, 5.9, 7.68, 
+characterOffensiveAbility = 28, 40, 52, 
+levelRequirement = 58, 
+offensiveColdModifier = 24.5, 35, 45.5, 
+offensiveLightningModifier = 24.5, 35, 45.5, 

@@ -1,0 +1,6 @@
+Alchemist's Belt,
+characterConstitutionModifier = 40, 40, 40, 
+characterIntelligence = 16, 16, 16, 
+defensivePoison = 32, 32, 32, 
+levelRequirement = 29, 
+offensivePoisonModifier = 22, 22, 22, 

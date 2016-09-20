@@ -1,0 +1,7 @@
+Stormcaller's Spellblade,
+characterSpellCastSpeedModifier = 14, 14, 14, 
+levelRequirement = 22, 
+offensiveLightningModifier = 37, 37, 37, 
+offensiveSlowLightningModifier = 49, 49, 49, 
+retaliationLightningMax = 63, 63, 63, 
+retaliationLightningMin = 1, 1, 1, 

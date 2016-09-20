@@ -1,0 +1,4 @@
+Hand-Blunderbuss,
+offensivePhysicalMax = 27, 27, 27, 
+offensivePhysicalMin = 11, 11, 11, 
+offensivePierceRatioMin = 15, 15, 15, 

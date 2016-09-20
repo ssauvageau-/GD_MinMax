@@ -1,0 +1,7 @@
+Miasma Hood,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 3.5, 5, 6.5, 
+characterManaRegen = 1.12, 1.6, 2.08, 
+characterOffensiveAbility = 14, 20, 26, 
+levelRequirement = 30, 
+offensiveSlowPoisonModifier = 12.6, 18, 23.41, 

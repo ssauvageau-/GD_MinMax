@@ -1,0 +1,7 @@
+Consecrated,
+lootRandomizerJitter = 15.000000, 
+characterIntelligence = 23.8, 28, 32.2, 
+characterLifeModifier = 2.55, 3, 3.45, 
+defensiveLife = 27.2, 32, 36.8, 
+defensiveSlowLifeLeachDuration = 34, 40, 46, 
+levelRequirement = 68, 

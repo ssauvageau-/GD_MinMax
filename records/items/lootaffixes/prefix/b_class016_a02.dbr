@@ -1,0 +1,6 @@
+Warder's,
+lootRandomizerJitter = 15.000000, 
+characterStrengthModifier = 4.25, 5, 5.75, 
+levelRequirement = 65, 
+offensiveLightningModifier = 11.9, 14, 16.1, 
+offensivePhysicalModifier = 11.9, 14, 16.1, 

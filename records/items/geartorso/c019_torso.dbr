@@ -1,0 +1,8 @@
+Stealth Jacket of the Blind Assassin,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 16.8, 24, 31.21, 
+levelRequirement = 72, 
+offensivePierceModifier = 10.5, 15, 19.5, 
+offensiveSlowBleedingModifier = 35, 50, 65, 
+retaliationStunChance = 17.5, 25, 32.5, 
+retaliationStunMin = 0.7, 1, 1.3, 

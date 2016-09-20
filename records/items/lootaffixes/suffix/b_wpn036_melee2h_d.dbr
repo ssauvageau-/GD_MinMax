@@ -1,0 +1,8 @@
+of Solael's Malice,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 47.6, 56, 64.4, 
+levelRequirement = 60, 
+offensiveChaosMin = 11.9, 14, 16.1, 
+offensiveChaosModifier = 62.9, 74, 85.1, 
+offensiveLifeMin = 11.9, 14, 16.1, 
+offensiveLifeModifier = 68, 80, 92, 

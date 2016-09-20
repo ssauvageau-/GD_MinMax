@@ -1,0 +1,7 @@
+Arcanum Sigil,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 2.1, 3, 3.91, 
+defensiveElementalResistance = 10.5, 15, 19.5, 
+levelRequirement = 48, 
+offensiveAetherModifier = 11.9, 17, 22.1, 
+offensiveElementalModifier = 21, 30, 39, 

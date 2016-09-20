@@ -1,0 +1,8 @@
+Rhowari Rancor,
+attributeScalePercent = 20.000000, 
+characterIntelligence = 11.21, 14, 16.8, 
+characterOffensiveAbility = 36, 45, 54, 
+levelRequirement = 40, 
+offensiveCritDamageModifier = 4, 5, 6, 
+offensivePoisonModifier = 12.8, 16, 19.2, 
+offensiveSlowPoisonModifier = 25.6, 32, 38.4, 

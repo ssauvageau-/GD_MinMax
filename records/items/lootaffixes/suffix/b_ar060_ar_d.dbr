@@ -1,0 +1,7 @@
+of Reptilian Resilience,
+lootRandomizerJitter = 15.000000, 
+characterLifeRegen = 6.8, 8, 9.2, 
+characterRunSpeedModifier = 2.55, 3, 3.45, 
+characterStrength = 40.8, 48, 55.2, 
+defensivePoison = 25.5, 30, 34.5, 
+levelRequirement = 72, 

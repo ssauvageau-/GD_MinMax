@@ -1,0 +1,7 @@
+Aetherfire,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 34, 40, 46, 
+characterSpellCastSpeedModifier = 5.95, 7, 8.05, 
+levelRequirement = 74, 
+offensiveAetherModifier = 30.6, 36, 41.4, 
+offensiveFireModifier = 30.6, 36, 41.4, 

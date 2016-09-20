@@ -1,0 +1,5 @@
+Incendiary Shoulderplates,
+attributeScalePercent = 20.000000, 
+defensiveFireDuration = 16, 20, 24, 
+levelRequirement = 33, 
+offensiveSlowFireModifier = 24, 30, 36, 

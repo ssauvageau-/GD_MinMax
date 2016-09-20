@@ -1,0 +1,8 @@
+Inquisitor's,
+lootRandomizerJitter = 28.000000, 
+characterSpellCastSpeedModifier = 3.6, 5, 6.4, 
+levelRequirement = 16, 
+offensiveDisruptionChance = 7.2, 10, 12.8, 
+offensiveDisruptionMin = 1.08, 1.5, 1.92, 
+offensiveElementalMin = 2.88, 4, 5.12, 
+offensiveElementalModifier = 8.64, 12, 15.36, 

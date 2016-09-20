@@ -1,0 +1,7 @@
+of Stonefooting,
+lootRandomizerJitter = 15.000000, 
+characterRunSpeedModifier = 6.8, 8, 9.2, 
+characterStrength = 12.75, 15, 17.25, 
+defensivePierce = 25.5, 30, 34.5, 
+defensiveProtectionModifier = 6.8, 8, 9.2, 
+levelRequirement = 72, 

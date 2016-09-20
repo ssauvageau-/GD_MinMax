@@ -1,0 +1,8 @@
+Alkamos' Torment,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 24.5, 35, 45.5, 
+defensiveCold = 39.2, 56, 72.8, 
+defensiveLife = 25.2, 36, 46.81, 
+levelRequirement = 65, 
+offensiveColdModifier = 25.2, 36, 46.81, 
+offensiveLifeModifier = 19.6, 28, 36.4, 

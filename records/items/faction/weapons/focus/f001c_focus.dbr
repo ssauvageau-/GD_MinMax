@@ -1,0 +1,8 @@
+Harvest's Tome,
+attributeScalePercent = 38.000000, 
+characterManaRegen = 3.23, 5.2, 7.18, 
+characterOffensiveAbility = 24.8, 40, 55.2, 
+defensiveElementalResistance = 11.16, 18, 24.84, 
+levelRequirement = 70, 
+offensivePoisonModifier = 31, 50, 69, 
+offensiveSlowPoisonModifier = 55.8, 90, 124.2, 

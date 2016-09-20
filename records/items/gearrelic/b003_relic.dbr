@@ -1,0 +1,6 @@
+Equilibrium,
+characterIntelligence = 24, 24, 24, 
+defensiveElementalResistance = 60, 60, 60, 
+defensiveElementalResistanceChance = 25, 25, 25, 
+levelRequirement = 18, 
+offensiveElementalModifier = 12, 12, 12, 

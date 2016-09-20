@@ -1,0 +1,7 @@
+Crude Staff,
+attributeScalePercent = 10.000000, 
+characterSpellCastSpeedModifier = 13.5, 15, 16.5, 
+levelRequirement = 1, 
+offensivePhysicalMax = 12.000000, 
+offensivePhysicalMin = 3.000000, 
+offensivePierceRatioMin = 25.000000, 

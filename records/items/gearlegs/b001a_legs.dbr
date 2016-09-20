@@ -1,0 +1,7 @@
+Dreeg-Sect Legguards,
+attributeScalePercent = 20.000000, 
+characterLifeRegenModifier = 8, 10, 12, 
+characterOffensiveAbilityModifier = 2.41, 3, 3.6, 
+defensiveLife = 12.8, 16, 19.2, 
+levelRequirement = 30, 
+retaliationPoisonMin = 40, 50, 60, 

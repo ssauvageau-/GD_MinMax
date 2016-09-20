@@ -1,0 +1,7 @@
+Merciless,
+lootRandomizerJitter = 15.000000, 
+characterDexterity = 23.8, 28, 32.2, 
+defensivePoison = 18.7, 22, 25.3, 
+levelRequirement = 70, 
+offensivePierceModifier = 18.7, 22, 25.3, 
+offensiveSlowBleedingModifier = 25.5, 30, 34.5, 

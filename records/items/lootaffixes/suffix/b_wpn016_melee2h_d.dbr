@@ -1,0 +1,6 @@
+of Onslaught,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 7.65, 9, 10.35, 
+characterOffensiveAbility = 49.3, 58, 66.7, 
+levelRequirement = 57, 
+offensiveTotalDamageModifier = 34, 40, 46, 

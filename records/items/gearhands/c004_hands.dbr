@@ -1,0 +1,7 @@
+Spellbinder's Grip,
+characterIntelligenceModifier = 3, 3, 3, 
+characterOffensiveAbility = 13, 13, 13, 
+characterSpellCastSpeedModifier = 11, 11, 11, 
+levelRequirement = 29, 
+offensiveChaosModifier = 21, 21, 21, 
+offensiveTotalDamageModifier = 8, 8, 8, 

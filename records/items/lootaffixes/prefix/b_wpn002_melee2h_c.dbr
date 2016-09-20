@@ -1,0 +1,7 @@
+Relentless,
+lootRandomizerJitter = 18.000000, 
+characterAttackSpeedModifier = 6.57, 8, 9.44, 
+levelRequirement = 41, 
+offensiveBonusPhysicalChance = 8.21, 10, 11.8, 
+offensiveBonusPhysicalMin = 184.5, 225, 265.5, 
+offensivePhysicalModifier = 32.81, 40, 47.2, 

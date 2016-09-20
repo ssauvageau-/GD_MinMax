@@ -1,0 +1,5 @@
+Sapping,
+lootRandomizerJitter = 40.000000, 
+levelRequirement = 18, 
+offensivePercentCurrentLifeMax = 6, 10, 14, 
+offensivePercentCurrentLifeMin = 3.6, 6, 8.4, 

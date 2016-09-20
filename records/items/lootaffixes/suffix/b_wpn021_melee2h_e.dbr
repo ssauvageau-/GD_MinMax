@@ -1,0 +1,8 @@
+of the Defiler,
+lootRandomizerJitter = 15.000000, 
+characterAttackSpeedModifier = 12.75, 15, 17.25, 
+characterOffensiveAbility = 28.05, 33, 37.95, 
+levelRequirement = 70, 
+offensivePoisonMin = 15.3, 18, 20.7, 
+offensivePoisonModifier = 72.25, 85, 97.75, 
+offensiveSlowPoisonModifier = 76.5, 90, 103.5, 

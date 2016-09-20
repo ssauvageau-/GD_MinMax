@@ -1,0 +1,6 @@
+Solar Belt,
+attributeScalePercent = 20.000000, 
+characterLifeRegen = 3.2, 4, 4.8, 
+levelRequirement = 35, 
+offensiveCritDamageModifier = 3.2, 4, 4.8, 
+offensivePhysicalModifier = 14.4, 18, 21.6, 

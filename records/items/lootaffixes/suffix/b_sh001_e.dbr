@@ -1,0 +1,6 @@
+of Redoubt,
+lootRandomizerJitter = 15.000000, 
+characterLife = 569.5, 670, 770.5, 
+defensiveBlockAmountModifier = 12.75, 15, 17.25, 
+defensiveBlockModifier = 9.35, 11, 12.65, 
+levelRequirement = 74, 

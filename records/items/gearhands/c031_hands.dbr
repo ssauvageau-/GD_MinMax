@@ -1,0 +1,8 @@
+Quickdraw Gloves,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 10.5, 15, 19.5, 
+characterHuntingDexterityReqReduction = 10.5, 15, 19.5, 
+levelRequirement = 65, 
+offensivePierceMax = 6.3, 9, 11.71, 
+offensivePierceMin = 2.8, 4, 5.2, 
+offensivePierceModifier = 24.5, 35, 45.5, 

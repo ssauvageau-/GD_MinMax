@@ -1,0 +1,8 @@
+Renegade's,
+lootRandomizerJitter = 22.000000, 
+characterDexterityModifier = 3.91, 5, 6.1, 
+characterOffensiveAbility = 14.05, 18, 21.96, 
+levelRequirement = 35, 
+retaliationSlowAttackSpeedChance = 15.61, 20, 24.4, 
+retaliationSlowAttackSpeedDurationMin = 3.91, 5, 6.1, 
+retaliationSlowAttackSpeedMin = 23.41, 30, 36.6, 

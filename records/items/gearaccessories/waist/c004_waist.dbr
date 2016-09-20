@@ -1,0 +1,7 @@
+Marauder's Ammo Belt,
+characterDexterity = 10, 10, 10, 
+levelRequirement = 26, 
+offensiveColdModifier = 15, 15, 15, 
+offensiveFireModifier = 15, 15, 15, 
+offensivePierceMax = 4, 4, 4, 
+offensivePierceMin = 2, 2, 2, 

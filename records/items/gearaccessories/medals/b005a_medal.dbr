@@ -1,0 +1,6 @@
+Bloodsworn Sigil,
+attributeScalePercent = 20.000000, 
+characterLifeModifier = 4, 5, 6, 
+levelRequirement = 35, 
+offensiveChaosModifier = 9.61, 12, 14.4, 
+offensiveFireModifier = 9.61, 12, 14.4, 

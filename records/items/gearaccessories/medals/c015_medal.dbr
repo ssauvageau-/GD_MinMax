@@ -1,0 +1,5 @@
+Heretic's Sigil,
+characterOffensiveAbility = 52, 52, 52, 
+levelRequirement = 27, 
+offensiveLifeModifier = 10, 10, 10, 
+offensiveSlowPoisonModifier = 17, 17, 17, 

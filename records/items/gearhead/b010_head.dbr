@@ -1,0 +1,6 @@
+Ranger's Casque,
+characterDexterity = 22, 22, 22, 
+characterLifeModifier = 5, 5, 5, 
+characterLifeRegen = 5.5, 5.5, 5.5, 
+levelRequirement = 30, 
+offensivePierceModifier = 20, 20, 20, 

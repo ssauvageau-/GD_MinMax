@@ -1,0 +1,7 @@
+Murderer's Cowl,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 21, 30, 39, 
+levelRequirement = 70, 
+offensiveSlowBleedingDurationMin = 2.1, 3, 3.91, 
+offensiveSlowBleedingMin = 5.6, 8, 10.4, 
+offensiveSlowBleedingModifier = 18.2, 26, 33.81, 

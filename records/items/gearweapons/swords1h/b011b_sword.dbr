@@ -1,0 +1,7 @@
+Dermapteran Claw,
+attributeScalePercent = 28.000000, 
+levelRequirement = 32, 
+offensivePhysicalMax = 59.000000, 
+offensivePhysicalMin = 40.000000, 
+offensivePierceMin = 3.6, 5, 6.4, 
+offensivePierceRatioMin = 50.000000, 

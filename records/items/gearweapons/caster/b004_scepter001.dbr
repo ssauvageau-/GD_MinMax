@@ -1,0 +1,5 @@
+Adept's Wand,
+characterSpellCastSpeedModifier = 4, 4, 4, 
+levelRequirement = 30, 
+offensiveLightningModifier = 40, 40, 40, 
+offensiveSlowLightningModifier = 40, 40, 40, 

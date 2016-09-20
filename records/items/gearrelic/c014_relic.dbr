@@ -1,0 +1,7 @@
+Blight,
+characterAttackSpeedModifier = 7, 7, 7, 
+characterIntelligence = 28, 28, 28, 
+levelRequirement = 50, 
+offensivePoisonMin = 10, 10, 10, 
+offensivePoisonModifier = 40, 40, 40, 
+offensiveSlowPoisonModifier = 65, 65, 65, 

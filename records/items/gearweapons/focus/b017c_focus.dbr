@@ -1,0 +1,6 @@
+Groble Stone Effigy,
+attributeScalePercent = 20.000000, 
+characterManaRegenModifier = 44, 55, 66, 
+levelRequirement = 35, 
+offensiveCritDamageModifier = 4.81, 6, 7.2, 
+offensiveElementalModifier = 17.6, 22, 26.4, 

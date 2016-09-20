@@ -1,0 +1,7 @@
+of the Wastes,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 12, 
+offensiveLifeModifier = 23.8, 28, 32.2, 
+offensiveTotalResistanceReductionAbsoluteChance = 6.8, 8, 9.2, 
+offensiveTotalResistanceReductionAbsoluteDurationMin = 4.25, 5, 5.75, 
+offensiveTotalResistanceReductionAbsoluteMin = 17, 20, 23, 

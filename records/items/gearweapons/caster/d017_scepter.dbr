@@ -1,0 +1,8 @@
+Trozan's Starkeeper,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 24.5, 35, 45.5, 
+levelRequirement = 75, 
+offensiveColdModifier = 87.5, 125, 162.5, 
+offensiveLightningModifier = 87.5, 125, 162.5, 
+offensiveSlowColdModifier = 87.5, 125, 162.5, 
+offensiveSlowLightningModifier = 87.5, 125, 162.5, 

@@ -1,0 +1,6 @@
+tagWeaponGun2hC000,
+attributeScalePercent = 52.000000, 
+levelRequirement = 10, 
+offensivePhysicalMax = 111.000000, 
+offensivePhysicalMin = 111.000000, 
+offensivePierceRatioMin = 35.000000, 

@@ -1,0 +1,7 @@
+Hellion Greaves,
+attributeScalePercent = 30.000000, 
+characterIntelligence = 17.5, 25, 32.5, 
+characterOffensiveAbility = 18.9, 27, 35.1, 
+levelRequirement = 50, 
+offensiveFireModifier = 26.6, 38, 49.4, 
+offensiveSlowFireModifier = 38.5, 55, 71.5, 

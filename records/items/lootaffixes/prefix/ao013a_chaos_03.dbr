@@ -1,0 +1,5 @@
+Void-Touched,
+lootRandomizerJitter = 25.000000, 
+levelRequirement = 16, 
+offensiveChaosMax = 3.75, 5, 6.25, 
+offensiveChaosMin = 1.5, 2, 2.5, 

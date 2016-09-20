@@ -1,0 +1,6 @@
+Devil's Waistguard,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 26.6, 38, 49.4, 
+characterDodgePercent = 3.5, 5, 6.5, 
+defensiveBleedingDuration = 28, 40, 52, 
+levelRequirement = 50, 

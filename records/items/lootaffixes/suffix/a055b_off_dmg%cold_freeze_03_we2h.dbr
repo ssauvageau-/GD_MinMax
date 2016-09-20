@@ -1,0 +1,6 @@
+of the Arctic,
+lootRandomizerJitter = 10.000000, 
+levelRequirement = 40, 
+offensiveColdModifier = 54, 60, 66, 
+offensiveFreezeChance = 7.2, 8, 8.8, 
+offensiveFreezeMin = 1.8, 2, 2.2, 

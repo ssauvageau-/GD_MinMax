@@ -1,0 +1,7 @@
+Coldsnap,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 1.4, 2, 2.6, 
+characterOffensiveAbility = 24.5, 35, 45.5, 
+levelRequirement = 65, 
+offensiveColdModifier = 70.7, 101, 131.3, 
+offensiveSlowColdModifier = 53.9, 77, 100.11, 

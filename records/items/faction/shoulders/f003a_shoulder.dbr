@@ -1,0 +1,8 @@
+Outcast's Sky Mantle,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 10.4, 13, 15.6, 
+defensiveLightning = 16, 20, 24, 
+levelRequirement = 35, 
+offensiveLightningModifier = 16, 20, 24, 
+offensiveSlowLightningDurationModifier = 24, 30, 36, 
+offensiveSlowLightningModifier = 20, 25, 30, 

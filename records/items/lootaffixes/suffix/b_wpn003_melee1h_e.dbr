@@ -1,0 +1,6 @@
+of Sanctification,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 34, 40, 46, 
+levelRequirement = 74, 
+offensivePercentCurrentLifeMin = 3.4, 4, 4.6, 
+offensiveTotalDamageModifier = 25.5, 30, 34.5, 

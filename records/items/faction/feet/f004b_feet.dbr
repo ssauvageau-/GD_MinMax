@@ -1,0 +1,8 @@
+Harvest Footpads,
+attributeScalePercent = 30.000000, 
+characterRunSpeedModifier = 4.9, 7, 9.1, 
+defensiveAether = 14, 20, 26, 
+defensiveChaos = 14, 20, 26, 
+defensiveElementalResistance = 10.5, 15, 19.5, 
+defensiveTotalSpeedResistance = 17.5, 25, 32.5, 
+levelRequirement = 50, 

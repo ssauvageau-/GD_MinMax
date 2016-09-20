@@ -1,0 +1,8 @@
+of Amarasta's Alacrity,
+lootRandomizerJitter = 18.000000, 
+characterAttackSpeedModifier = 9.84, 12, 14.16, 
+characterSpellCastSpeedModifier = 7.39, 9, 10.62, 
+levelRequirement = 52, 
+offensivePierceMin = 4.11, 5, 5.9, 
+offensivePierceModifier = 14.77, 18, 21.24, 
+offensiveSlowBleedingModifier = 20.5, 25, 29.5, 

@@ -1,0 +1,7 @@
+Chosen Cord,
+attributeScalePercent = 20.000000, 
+levelRequirement = 35, 
+offensiveCritDamageModifier = 3.2, 4, 4.8, 
+offensiveSlowFireDurationMin = 2.41, 3, 3.6, 
+offensiveSlowFireMin = 4, 5, 6, 
+offensiveSlowFireModifier = 20, 25, 30, 

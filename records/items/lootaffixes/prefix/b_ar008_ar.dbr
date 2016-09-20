@@ -1,0 +1,8 @@
+Ancient,
+lootRandomizerJitter = 28.000000, 
+characterLifeModifier = 2.88, 4, 5.12, 
+characterLifeRegen = 3.6, 5, 6.4, 
+defensiveProtectionModifier = 3.6, 5, 6.4, 
+levelRequirement = 12, 
+retaliationPercentCurrentLifeChance = 7.2, 10, 12.8, 
+retaliationPercentCurrentLifeMin = 14.4, 20, 25.6, 

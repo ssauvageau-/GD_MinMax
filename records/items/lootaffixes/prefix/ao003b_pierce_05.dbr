@@ -1,0 +1,5 @@
+Puncturing,
+lootRandomizerJitter = 15.000000, 
+levelRequirement = 36, 
+offensivePierceMax = 11.9, 14, 16.1, 
+offensivePierceMin = 5.95, 7, 8.05, 

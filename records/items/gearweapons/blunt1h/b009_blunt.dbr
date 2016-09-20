@@ -1,0 +1,7 @@
+Adept's Bladed Mace,
+attributeScalePercent = 8.000000, 
+levelRequirement = 15, 
+offensiveElementalMin = 4.61, 5, 5.4, 
+offensivePhysicalMax = 62.000000, 
+offensivePhysicalMin = 20.000000, 
+offensiveTotalDamageModifier = 11.05, 12, 12.96, 

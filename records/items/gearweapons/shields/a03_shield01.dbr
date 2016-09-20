@@ -1,0 +1,4 @@
+War Shield,
+defensiveBlock = 130, 130, 130, 
+defensiveBlockChance = 20, 20, 20, 
+offensivePhysicalMin = 46, 46, 46, 

@@ -1,0 +1,7 @@
+Lifebloom Band,
+attributeScalePercent = 30.000000, 
+characterConstitutionModifier = 12.6, 18, 23.41, 
+characterLife = 455, 650, 845, 
+characterLifeRegen = 5.6, 8, 10.4, 
+characterLifeRegenModifier = 8.4, 12, 15.61, 
+levelRequirement = 65, 

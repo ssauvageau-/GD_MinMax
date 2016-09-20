@@ -1,0 +1,5 @@
+Kite Shield,
+attributeScalePercent = 30.000000, 
+defensiveBlock = 525, 750, 975, 
+defensiveBlockChance = 21, 30, 39, 
+offensivePhysicalMin = 130.000000, 

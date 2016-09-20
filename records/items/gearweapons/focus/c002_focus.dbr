@@ -1,0 +1,7 @@
+Crushing Will,
+characterIntelligence = 14, 14, 14, 
+characterManaRegen = 3, 3, 3, 
+characterSpellCastSpeedModifier = 20, 20, 20, 
+levelRequirement = 29, 
+offensiveElementalMin = 5, 5, 5, 
+offensiveElementalModifier = 40, 40, 40, 

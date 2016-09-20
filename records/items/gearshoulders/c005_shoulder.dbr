@@ -1,0 +1,6 @@
+Grenadier Shoulderguard,
+attributeScalePercent = 20.000000, 
+characterDexterity = 20, 25, 30, 
+levelRequirement = 33, 
+offensiveFireModifier = 12, 15, 18, 
+offensiveSlowFireModifier = 21.6, 27, 32.4, 

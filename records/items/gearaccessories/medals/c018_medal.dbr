@@ -1,0 +1,7 @@
+Gutworm's Bloody Seal,
+levelRequirement = 25, 
+offensiveSlowBleedingDurationMin = 3, 3, 3, 
+offensiveSlowBleedingDurationModifier = 20, 20, 20, 
+offensiveSlowBleedingMin = 5, 5, 5, 
+offensiveSlowBleedingModifier = 22, 22, 22, 
+offensiveSlowPhysicalModifier = 15, 15, 15, 

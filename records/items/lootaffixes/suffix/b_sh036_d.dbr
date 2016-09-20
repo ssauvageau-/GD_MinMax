@@ -1,0 +1,7 @@
+of Voidfire,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbility = 29.75, 35, 40.25, 
+defensiveChaos = 15.3, 18, 20.7, 
+levelRequirement = 60, 
+offensiveChaosModifier = 52.7, 62, 71.3, 
+offensiveFireModifier = 52.7, 62, 71.3, 

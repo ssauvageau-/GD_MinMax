@@ -1,0 +1,8 @@
+Signet of the Fallen,
+attributeScalePercent = 30.000000, 
+characterOffensiveAbility = 8.4, 12, 15.61, 
+characterSpellCastSpeedModifier = 6.3, 9, 11.71, 
+levelRequirement = 58, 
+offensiveLifeModifier = 42, 60, 78, 
+offensivePierceModifier = 30.8, 44, 57.2, 
+offensiveSlowLifeModifier = 42, 60, 78, 

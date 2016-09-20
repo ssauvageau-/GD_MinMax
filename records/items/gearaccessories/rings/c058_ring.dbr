@@ -1,0 +1,8 @@
+Goliath Signet,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 4.2, 6, 7.81, 
+characterStrength = 23.8, 34, 44.2, 
+levelRequirement = 75, 
+offensivePhysicalModifier = 35, 50, 65, 
+offensiveSlowBleedingModifier = 29.4, 42, 54.6, 
+offensiveSlowPhysicalModifier = 21, 30, 39, 

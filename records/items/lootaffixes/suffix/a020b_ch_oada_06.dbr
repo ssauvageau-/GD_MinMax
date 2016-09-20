@@ -1,0 +1,5 @@
+of Readiness,
+lootRandomizerJitter = 10.000000, 
+characterDefensiveAbility = 36, 40, 44, 
+characterOffensiveAbility = 56.7, 63, 69.31, 
+levelRequirement = 60, 

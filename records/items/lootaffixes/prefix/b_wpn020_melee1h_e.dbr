@@ -1,0 +1,7 @@
+Sinister,
+lootRandomizerJitter = 15.000000, 
+characterDexterity = 15.3, 18, 20.7, 
+levelRequirement = 68, 
+offensivePierceMin = 10.2, 12, 13.8, 
+offensivePierceModifier = 27.2, 32, 36.8, 
+offensivePierceRatioModifier = 59.5, 70, 80.5, 

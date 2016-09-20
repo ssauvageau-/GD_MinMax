@@ -1,0 +1,8 @@
+Crimson Heart,
+attributeScalePercent = 30.000000, 
+characterConstitutionModifier = 21, 30, 39, 
+characterLife = 336, 480, 624, 
+characterLifeRegen = 15.4, 22, 28.6, 
+characterLifeRegenModifier = 21, 30, 39, 
+defensiveBleedingDurationModifier = 21, 30, 39, 
+levelRequirement = 65, 

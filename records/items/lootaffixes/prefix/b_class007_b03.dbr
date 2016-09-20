@@ -1,0 +1,7 @@
+Sorcerer's,
+lootRandomizerJitter = 15.000000, 
+characterOffensiveAbilityModifier = 2.55, 3, 3.45, 
+levelRequirement = 90, 
+offensiveAetherModifier = 170, 200, 230, 
+offensiveAetherModifierChance = 8.5, 10, 11.5, 
+offensiveElementalModifier = 13.6, 16, 18.4, 

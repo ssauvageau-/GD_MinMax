@@ -1,0 +1,7 @@
+Stonehide,
+lootRandomizerJitter = 15.000000, 
+defensiveBleeding = 32.3, 38, 43.7, 
+defensivePierce = 20.4, 24, 27.6, 
+defensivePoison = 32.3, 38, 43.7, 
+defensiveProtectionModifier = 5.95, 7, 8.05, 
+levelRequirement = 67, 

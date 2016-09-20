@@ -1,0 +1,6 @@
+of the Cabal,
+lootRandomizerJitter = 15.000000, 
+characterSpellCastSpeedModifier = 10.2, 12, 13.8, 
+levelRequirement = 60, 
+offensiveChaosModifier = 52.7, 62, 71.3, 
+offensiveSlowPoisonModifier = 52.7, 62, 71.3, 

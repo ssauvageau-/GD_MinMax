@@ -1,0 +1,7 @@
+Battlemage's,
+lootRandomizerJitter = 15.000000, 
+characterIntelligenceModifier = 4.25, 5, 5.75, 
+defensiveElementalResistance = 18.7, 22, 25.3, 
+levelRequirement = 90, 
+offensiveElementalModifier = 170, 200, 230, 
+offensiveElementalModifierChance = 8.5, 10, 11.5, 

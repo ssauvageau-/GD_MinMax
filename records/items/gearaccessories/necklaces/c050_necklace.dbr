@@ -1,0 +1,8 @@
+Bladeward's Courage,
+attributeScalePercent = 30.000000, 
+characterDodgePercent = 1.4, 2, 2.6, 
+characterOffensiveAbility = 45.5, 65, 84.5, 
+defensiveBlockAmountModifier = 17.5, 25, 32.5, 
+defensivePierce = 28, 40, 52, 
+levelRequirement = 75, 
+offensivePhysicalModifier = 31.5, 45, 58.5, 

@@ -1,0 +1,8 @@
+Charged,
+lootRandomizerJitter = 15.000000, 
+conversionInType = Physical, 
+conversionOutType = Lightning, 
+conversionPercentage = 8.5, 10, 11.5, 
+levelRequirement = 36, 
+offensiveLightningMax = 15.3, 18, 20.7, 
+offensiveLightningMin = 2.55, 3, 3.45, 

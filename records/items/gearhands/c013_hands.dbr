@@ -1,0 +1,7 @@
+Apothecary's Touch,
+attributeScalePercent = 20.000000, 
+characterIntelligence = 12, 15, 18, 
+characterLifeRegen = 6.4, 8, 9.6, 
+characterLifeRegenModifier = 8, 10, 12, 
+defensiveElementalResistance = 12, 15, 18, 
+levelRequirement = 40, 

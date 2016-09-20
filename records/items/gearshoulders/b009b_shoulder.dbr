@@ -1,0 +1,6 @@
+Haunted Shoulderpad,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 4.2, 6, 7.81, 
+characterLifeRegenModifier = 21, 30, 39, 
+defensiveElementalResistance = 16.8, 24, 31.21, 
+levelRequirement = 50, 

@@ -1,0 +1,8 @@
+Stormcharged,
+lootRandomizerJitter = 15.000000, 
+characterIntelligence = 23.8, 28, 32.2, 
+characterIntelligenceModifier = 1.7, 2, 2.3, 
+levelRequirement = 70, 
+offensiveLightningMax = 12.75, 15, 17.25, 
+offensiveLightningMin = 0.85, 1, 1.15, 
+offensiveLightningModifier = 28.9, 34, 39.1, 

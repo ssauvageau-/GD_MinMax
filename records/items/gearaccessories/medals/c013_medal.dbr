@@ -1,0 +1,7 @@
+Ribbon of Valiance,
+attributeScalePercent = 30.000000, 
+characterDefensiveAbility = 21, 30, 39, 
+levelRequirement = 58, 
+offensiveSlowBleedingModifier = 23.1, 33, 42.9, 
+offensiveSlowPhysicalModifier = 23.1, 33, 42.9, 
+offensiveStunModifier = 14, 20, 26, 

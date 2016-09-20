@@ -1,0 +1,7 @@
+Francis' Gun,
+offensiveFireMax = 5, 5, 5, 
+offensiveFireMin = 3, 3, 3, 
+offensiveFireModifier = 8, 8, 8, 
+offensivePhysicalMax = 19, 19, 19, 
+offensivePhysicalMin = 9, 9, 9, 
+offensivePierceRatioMin = 12, 12, 12, 

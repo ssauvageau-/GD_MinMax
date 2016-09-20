@@ -1,0 +1,8 @@
+Dreadnought Footpads,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 16, 20, 24, 
+characterRunSpeedModifier = 4, 5, 6, 
+defensivePhysical = 4, 5, 6, 
+defensivePierce = 8, 10, 12, 
+levelRequirement = 40, 
+offensivePhysicalModifier = 28, 35, 42, 

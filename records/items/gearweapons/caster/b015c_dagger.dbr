@@ -1,0 +1,8 @@
+Slithtongue,
+attributeScalePercent = 38.000000, 
+characterOffensiveAbility = 27.9, 45, 62.1, 
+levelRequirement = 70, 
+offensivePoisonModifier = 62, 100, 138, 
+offensiveSlowPoisonDurationMin = 3.1, 5, 6.9, 
+offensiveSlowPoisonMin = 8.06, 13, 17.94, 
+offensiveSlowPoisonModifier = 62, 100, 138, 

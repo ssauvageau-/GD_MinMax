@@ -1,0 +1,6 @@
+Warlock's,
+lootRandomizerJitter = 15.000000, 
+defensiveElementalResistance = 12.75, 15, 17.25, 
+levelRequirement = 90, 
+offensiveAetherModifier = 17, 20, 23, 
+offensiveChaosModifier = 17, 20, 23, 

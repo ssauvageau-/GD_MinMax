@@ -1,0 +1,8 @@
+Glacial,
+lootRandomizerJitter = 18.000000, 
+characterDefensiveAbility = 11.48, 14, 16.52, 
+characterIntelligence = 18.05, 22, 25.96, 
+levelRequirement = 52, 
+offensiveColdModifier = 16.41, 20, 23.6, 
+offensiveSlowColdDurationModifier = 20.5, 25, 29.5, 
+offensiveSlowColdModifier = 18.87, 23, 27.14, 

@@ -1,0 +1,4 @@
+Aegis,
+defensiveBlock = 300, 300, 300, 
+defensiveBlockChance = 24, 24, 24, 
+offensivePhysicalMin = 62, 62, 62, 

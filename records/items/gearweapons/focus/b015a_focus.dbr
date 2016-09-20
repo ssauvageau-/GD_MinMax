@@ -1,0 +1,7 @@
+Groble Sky Effigy,
+characterManaRegenModifier = 45, 45, 45, 
+levelRequirement = 12, 
+offensiveCritDamageModifier = 5, 5, 5, 
+offensiveLightningMax = 12, 12, 12, 
+offensiveLightningMin = 1, 1, 1, 
+offensiveLightningModifier = 16, 16, 16, 

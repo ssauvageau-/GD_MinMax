@@ -1,0 +1,7 @@
+Arcane Eclipse,
+attributeScalePercent = 30.000000, 
+characterManaRegen = 1.75, 2.5, 3.25, 
+defensiveSlowManaLeach = 28, 40, 52, 
+levelRequirement = 75, 
+offensiveAetherModifier = 24.5, 35, 45.5, 
+offensiveElementalModifier = 21, 30, 39, 

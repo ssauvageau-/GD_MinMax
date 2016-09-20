@@ -1,0 +1,4 @@
+of Barricades,
+lootRandomizerJitter = 20.000000, 
+characterDefensiveBlockRecoveryReduction = 12, 15, 18, 
+levelRequirement = 35, 

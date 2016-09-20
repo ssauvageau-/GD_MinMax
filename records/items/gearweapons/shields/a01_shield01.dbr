@@ -1,0 +1,4 @@
+Buckler,
+defensiveBlock = 40, 40, 40, 
+defensiveBlockChance = 12, 12, 12, 
+offensivePhysicalMin = 30, 30, 30, 

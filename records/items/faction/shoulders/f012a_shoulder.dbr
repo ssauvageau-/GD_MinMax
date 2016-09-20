@@ -1,0 +1,8 @@
+Devil's Shoulderguard,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbility = 25.6, 32, 38.4, 
+characterLifeRegen = 4, 5, 6, 
+characterLifeRegenModifier = 8, 10, 12, 
+defensivePhysical = 4, 5, 6, 
+defensiveProtectionModifier = 3.2, 4, 4.8, 
+levelRequirement = 35, 

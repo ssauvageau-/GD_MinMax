@@ -1,0 +1,8 @@
+Outcast's Hood,
+attributeScalePercent = 20.000000, 
+characterLife = 184, 230, 276, 
+characterManaRegen = 1.92, 2.4, 2.88, 
+defensiveAether = 11.21, 14, 16.8, 
+levelRequirement = 35, 
+offensiveAetherModifier = 17.6, 22, 26.4, 
+retaliationAetherMin = 44, 55, 66, 

@@ -1,0 +1,6 @@
+Solar Girdle,
+attributeScalePercent = 30.000000, 
+characterLifeRegen = 4.2, 6, 7.81, 
+levelRequirement = 70, 
+offensiveCritDamageModifier = 4.2, 6, 7.81, 
+offensivePhysicalModifier = 24.5, 35, 45.5, 

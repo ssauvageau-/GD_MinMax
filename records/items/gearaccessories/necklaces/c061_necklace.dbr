@@ -1,0 +1,8 @@
+Shard of Menhir,
+attributeScalePercent = 30.000000, 
+characterLife = 339.5, 485, 630.5, 
+characterLifeRegen = 10.5, 15, 19.5, 
+defensiveAllMaxResist = 2.1, 3, 3.91, 
+defensiveStun = 10.5, 15, 19.5, 
+levelRequirement = 58, 
+offensivePhysicalModifier = 26.6, 38, 49.4, 

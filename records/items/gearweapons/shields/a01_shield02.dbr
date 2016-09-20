@@ -1,0 +1,4 @@
+Round Shield,
+defensiveBlock = 32, 32, 32, 
+defensiveBlockChance = 15, 15, 15, 
+offensivePhysicalMin = 28, 28, 28, 

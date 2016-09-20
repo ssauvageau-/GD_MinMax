@@ -1,0 +1,8 @@
+Band of Black Ice,
+attributeScalePercent = 30.000000, 
+characterEnergyAbsorptionPercent = 7, 10, 13, 
+characterOffensiveAbility = 36.4, 52, 67.61, 
+defensiveCold = 19.6, 28, 36.4, 
+levelRequirement = 58, 
+offensiveColdModifier = 24.5, 35, 45.5, 
+offensiveSlowColdModifier = 24.5, 35, 45.5, 

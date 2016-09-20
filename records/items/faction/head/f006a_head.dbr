@@ -1,0 +1,8 @@
+Legion Headguard,
+attributeScalePercent = 20.000000, 
+characterLife = 364, 455, 546, 
+characterLifeRegen = 3.2, 4, 4.8, 
+characterLifeRegenModifier = 8, 10, 12, 
+defensiveChaos = 12, 15, 18, 
+defensivePhysical = 4, 5, 6, 
+levelRequirement = 35, 

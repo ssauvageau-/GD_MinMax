@@ -1,0 +1,8 @@
+Flamesilk Sash,
+attributeScalePercent = 30.000000, 
+defensiveFire = 12.6, 18, 23.41, 
+levelRequirement = 45, 
+offensiveFireModifier = 10.5, 15, 19.5, 
+offensiveSlowFireDurationMin = 2.1, 3, 3.91, 
+offensiveSlowFireMin = 4.2, 6, 7.81, 
+offensiveSlowFireModifier = 19.6, 28, 36.4, 

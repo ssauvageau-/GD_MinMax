@@ -1,0 +1,5 @@
+Everlasting,
+lootRandomizerJitter = 40.000000, 
+characterLifeModifier = 3.6, 6, 8.4, 
+defensiveProtectionModifier = 4.2, 7, 9.8, 
+levelRequirement = 20, 

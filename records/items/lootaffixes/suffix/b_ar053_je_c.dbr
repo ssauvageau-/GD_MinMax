@@ -1,0 +1,6 @@
+of Destruction,
+lootRandomizerJitter = 18.000000, 
+characterOffensiveAbility = 20.5, 25, 29.5, 
+levelRequirement = 50, 
+offensiveFireModifier = 26.25, 32, 37.76, 
+offensiveLightningModifier = 26.25, 32, 37.76, 

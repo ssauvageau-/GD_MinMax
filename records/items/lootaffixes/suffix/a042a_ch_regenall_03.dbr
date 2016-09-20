@@ -1,0 +1,5 @@
+of Renewal,
+lootRandomizerJitter = 15.000000, 
+characterLifeRegen = 1.96, 2.3, 2.65, 
+characterManaRegen = 0.6, 0.7, 0.81, 
+levelRequirement = 12, 

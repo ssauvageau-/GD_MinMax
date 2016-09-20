@@ -1,0 +1,7 @@
+Inscribed Bracers,
+attributeScalePercent = 20.000000, 
+characterSpellCastSpeedModifier = 12.8, 16, 19.2, 
+defensiveDisruption = 24, 30, 36, 
+levelRequirement = 35, 
+offensiveElementalMin = 4.81, 6, 7.2, 
+offensiveElementalModifier = 12.8, 16, 19.2, 

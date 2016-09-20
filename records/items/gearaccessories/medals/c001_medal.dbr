@@ -1,0 +1,5 @@
+Beast Slayer's Mark,
+characterOffensiveAbility = 45, 45, 45, 
+levelRequirement = 22, 
+offensivePhysicalMax = 6, 6, 6, 
+offensivePhysicalMin = 4, 4, 4, 

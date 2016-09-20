@@ -1,0 +1,7 @@
+Survivalist's,
+lootRandomizerJitter = 18.000000, 
+characterDefensiveAbility = 20.5, 25, 29.5, 
+characterLife = 213.21, 260, 306.8, 
+characterLifeModifier = 2.46, 3, 3.54, 
+characterRunSpeedModifier = 6.57, 8, 9.44, 
+levelRequirement = 58, 

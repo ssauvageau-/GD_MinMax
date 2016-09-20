@@ -1,0 +1,8 @@
+Legion Pauldrons,
+attributeScalePercent = 20.000000, 
+characterLife = 176, 220, 264, 
+defensivePhysical = 4, 5, 6, 
+defensiveProtectionModifier = 3.2, 4, 4.8, 
+levelRequirement = 35, 
+offensivePhysicalModifier = 16, 20, 24, 
+offensiveSlowPhysicalModifier = 20, 25, 30, 

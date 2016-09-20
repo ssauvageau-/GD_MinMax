@@ -1,0 +1,7 @@
+Fortified Doublet,
+characterDefensiveAbility = 16, 16, 16, 
+characterLife = 148, 148, 148, 
+characterManaRegen = 1, 1, 1, 
+defensiveCold = 15, 15, 15, 
+defensiveFire = 15, 15, 15, 
+levelRequirement = 20, 

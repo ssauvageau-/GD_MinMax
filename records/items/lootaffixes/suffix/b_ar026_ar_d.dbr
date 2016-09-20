@@ -1,0 +1,6 @@
+of Balanced Steel,
+lootRandomizerJitter = 15.000000, 
+characterLife = 255, 300, 345, 
+defensivePierce = 12.75, 15, 17.25, 
+levelRequirement = 67, 
+offensivePierceModifier = 22.95, 27, 31.05, 

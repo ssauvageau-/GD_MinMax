@@ -1,0 +1,4 @@
+Scope Revolver,
+offensivePhysicalMax = 39, 39, 39, 
+offensivePhysicalMin = 25, 25, 25, 
+offensivePierceRatioMin = 33, 33, 33, 

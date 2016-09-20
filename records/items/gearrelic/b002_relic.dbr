@@ -1,0 +1,6 @@
+Ruination,
+characterAttackSpeedModifier = 5, 5, 5, 
+characterDexterity = 14, 14, 14, 
+levelRequirement = 18, 
+offensivePierceChance = 5, 5, 5, 
+offensivePierceMin = 77, 77, 77, 

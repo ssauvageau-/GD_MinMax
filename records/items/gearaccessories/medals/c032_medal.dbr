@@ -1,0 +1,8 @@
+Heretic's Sigil,
+attributeScalePercent = 30.000000, 
+characterLife = 108.5, 155, 201.5, 
+characterOffensiveAbility = 51.8, 74, 96.2, 
+levelRequirement = 75, 
+offensiveLifeModifier = 22.4, 32, 41.6, 
+offensiveSlowPoisonModifier = 31.5, 45, 58.5, 
+retaliationLifeMin = 158.9, 227, 295.1, 

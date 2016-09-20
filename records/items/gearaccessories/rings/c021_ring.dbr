@@ -1,0 +1,6 @@
+Band of Black Ice,
+characterEnergyAbsorptionPercent = 10, 10, 10, 
+characterOffensiveAbility = 28, 28, 28, 
+levelRequirement = 23, 
+offensiveColdModifier = 10, 10, 10, 
+offensiveSlowColdModifier = 14, 14, 14, 

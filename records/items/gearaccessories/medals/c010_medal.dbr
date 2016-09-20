@@ -1,0 +1,8 @@
+Badge of the Crimson Company,
+attributeScalePercent = 30.000000, 
+characterAttackSpeedModifier = 2.8, 4, 5.2, 
+characterDexterity = 28, 40, 52, 
+defensiveBleeding = 28, 40, 52, 
+levelRequirement = 50, 
+offensivePierceModifier = 25.2, 36, 46.81, 
+offensiveSlowBleedingModifier = 28, 40, 52, 

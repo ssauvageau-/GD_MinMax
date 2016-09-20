@@ -1,0 +1,6 @@
+Ascended Vestment,
+characterDefensiveAbility = 28, 28, 28, 
+characterManaRegen = 4, 4, 4, 
+characterSpellCastSpeedModifier = 6, 6, 6, 
+levelRequirement = 30, 
+offensiveElementalModifier = 9, 9, 9, 

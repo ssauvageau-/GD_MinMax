@@ -1,0 +1,6 @@
+Groble Toxic Effigy,
+attributeScalePercent = 20.000000, 
+characterManaRegenModifier = 44, 55, 66, 
+levelRequirement = 35, 
+offensiveCritDamageModifier = 4.81, 6, 7.2, 
+offensiveSlowPoisonModifier = 26.41, 33, 39.6, 

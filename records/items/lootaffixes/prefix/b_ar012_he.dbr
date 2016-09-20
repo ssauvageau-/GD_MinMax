@@ -1,0 +1,6 @@
+Overseer's,
+lootRandomizerJitter = 28.000000, 
+characterDefensiveAbilityModifier = 2.16, 3, 3.84, 
+defensiveAbsorptionModifier = 18, 25, 32, 
+defensiveStun = 18, 25, 32, 
+levelRequirement = 25, 

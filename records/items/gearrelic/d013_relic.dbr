@@ -1,0 +1,8 @@
+Annihilation,
+characterDexterity = 37, 37, 37, 
+characterIntelligence = 45, 45, 45, 
+levelRequirement = 70, 
+offensiveFireMax = 18, 18, 18, 
+offensiveFireMin = 10, 10, 10, 
+offensiveFireModifier = 91, 91, 91, 
+offensivePhysicalModifier = 78, 78, 78, 

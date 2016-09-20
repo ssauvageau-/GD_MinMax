@@ -1,0 +1,6 @@
+of Spectres,
+lootRandomizerJitter = 28.000000, 
+characterLife = 64.8, 90, 115.2, 
+characterManaRegen = 0.51, 0.7, 0.9, 
+levelRequirement = 24, 
+offensiveLifeModifier = 28.8, 40, 51.2, 

@@ -1,0 +1,6 @@
+Murderer's Cowl,
+characterDefensiveAbility = 15, 15, 15, 
+levelRequirement = 18, 
+offensiveSlowBleedingDurationMin = 3, 3, 3, 
+offensiveSlowBleedingMin = 4, 4, 4, 
+offensiveSlowBleedingModifier = 10, 10, 10, 

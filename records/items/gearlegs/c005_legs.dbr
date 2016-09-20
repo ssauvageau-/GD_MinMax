@@ -1,0 +1,7 @@
+Soiled Trousers,
+levelRequirement = 20, 
+offensiveSlowPoisonModifier = 25, 25, 25, 
+retaliationConfusionChance = 15, 15, 15, 
+retaliationConfusionMin = 2, 2, 2, 
+retaliationSlowPoisonDurationMin = 5, 5, 5, 
+retaliationSlowPoisonMin = 34, 34, 34, 

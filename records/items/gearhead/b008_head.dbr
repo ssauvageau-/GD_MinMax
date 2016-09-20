@@ -1,0 +1,5 @@
+Ranger's Helm,
+characterDexterity = 12, 12, 12, 
+characterLifeRegen = 4, 4, 4, 
+levelRequirement = 24, 
+offensivePierceModifier = 12, 12, 12, 

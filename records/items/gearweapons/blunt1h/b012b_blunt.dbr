@@ -1,0 +1,6 @@
+Mutant Arm,
+attributeScalePercent = 8.000000, 
+levelRequirement = 30, 
+offensivePhysicalMax = 104.000000, 
+offensivePhysicalMin = 24.000000, 
+offensiveSlowPhysicalModifier = 23, 25, 27, 

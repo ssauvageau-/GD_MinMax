@@ -1,0 +1,8 @@
+Bonescythe,
+attributeScalePercent = 38.000000, 
+characterOffensiveAbility = 27.9, 45, 62.1, 
+levelRequirement = 70, 
+offensivePhysicalMax = 116.000000, 
+offensivePhysicalMin = 73.000000, 
+offensiveSlowBleedingModifier = 27.9, 45, 62.1, 
+offensiveSlowLifeLeachModifier = 43.4, 70, 96.6, 

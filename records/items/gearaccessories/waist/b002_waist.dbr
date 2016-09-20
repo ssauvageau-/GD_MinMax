@@ -1,0 +1,7 @@
+Shockweave Sash,
+characterTotalSpeedModifier = 3, 3, 3, 
+defensiveLightning = 28, 28, 28, 
+levelRequirement = 28, 
+offensiveLightningMax = 5, 5, 5, 
+offensiveLightningMin = 1, 1, 1, 
+offensiveLightningModifier = 14, 14, 14, 

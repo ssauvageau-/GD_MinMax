@@ -1,0 +1,8 @@
+Malformed Effigy,
+characterManaRegenModifier = 55, 55, 55, 
+characterOffensiveAbility = 18, 18, 18, 
+levelRequirement = 24, 
+offensivePoisonModifier = 21, 21, 21, 
+offensiveSlowPoisonModifier = 42, 42, 42, 
+retaliationSlowPoisonDurationMin = 5, 5, 5, 
+retaliationSlowPoisonMin = 77, 77, 77, 

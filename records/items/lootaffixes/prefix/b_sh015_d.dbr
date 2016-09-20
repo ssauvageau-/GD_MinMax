@@ -1,0 +1,8 @@
+Caustic,
+lootRandomizerJitter = 15.000000, 
+characterDexterity = 39.95, 47, 54.05, 
+defensivePoison = 51, 60, 69, 
+levelRequirement = 70, 
+offensivePoisonMin = 6.8, 8, 9.2, 
+offensivePoisonModifier = 25.5, 30, 34.5, 
+retaliationPoisonMin = 260.1, 306, 351.9, 

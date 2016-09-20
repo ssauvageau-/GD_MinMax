@@ -1,0 +1,8 @@
+Searing,
+lootRandomizerJitter = 25.000000, 
+conversionInType = Physical, 
+conversionOutType = Fire, 
+conversionPercentage = 12, 16, 20, 
+levelRequirement = 16, 
+offensiveFireMax = 7.5, 10, 12.5, 
+offensiveFireMin = 4.5, 6, 7.5, 

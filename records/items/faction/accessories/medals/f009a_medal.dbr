@@ -1,0 +1,8 @@
+Defiled Chosen Star,
+attributeScalePercent = 20.000000, 
+characterManaRegen = 1.21, 1.5, 1.8, 
+characterOffensiveAbility = 20.8, 26, 31.2, 
+levelRequirement = 40, 
+offensiveChaosModifier = 12.8, 16, 19.2, 
+offensiveLifeMin = 4, 5, 6, 
+offensiveLifeModifier = 25.6, 32, 38.4, 

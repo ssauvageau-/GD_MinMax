@@ -1,0 +1,6 @@
+Groble Sky Idol,
+characterManaRegenModifier = 45, 45, 45, 
+levelRequirement = 12, 
+offensiveLightningMax = 9, 9, 9, 
+offensiveLightningMin = 1, 1, 1, 
+offensiveLightningModifier = 16, 16, 16, 

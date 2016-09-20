@@ -1,0 +1,7 @@
+Shieldmaiden's Guard,
+attributeScalePercent = 20.000000, 
+characterDefensiveAbilityModifier = 4, 5, 6, 
+characterStrength = 10.4, 13, 15.6, 
+defensiveBlockAmountModifier = 14.4, 18, 21.6, 
+defensivePierce = 11.21, 14, 16.8, 
+levelRequirement = 32, 

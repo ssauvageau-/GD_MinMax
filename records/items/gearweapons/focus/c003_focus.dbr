@@ -1,0 +1,7 @@
+Maiven's Tome,
+characterMana = 240, 240, 240, 
+characterManaRegen = 3, 3, 3, 
+characterSpellCastSpeedModifier = 15, 15, 15, 
+levelRequirement = 25, 
+offensiveColdModifier = 15, 15, 15, 
+offensiveElementalModifier = 25, 25, 25, 
