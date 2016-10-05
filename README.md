@@ -1,10 +1,12 @@
 # GD_MinMax
 
-### Up-to-date with Grim Dawn Version: 1.0.0.5 HF2
+### Up-to-date with Grim Dawn Version: 1.0.0.6
 
 Contains data regarding the minimum, maximum, and base values of stats on items.
 
 Download data: [link](https://github.com/ssauvageau-/GD_MinMax/raw/master/minmax.csv) (Right click -> Save link as...)
+
+Download data for Legendary items only: [link](https://github.com/ssauvageau-/GD_MinMax/raw/master/minmax-legendary.csv) (Right click -> Save link as...)
 
 All data is pulled directly from the game files and parsed with an automatic process.
 
