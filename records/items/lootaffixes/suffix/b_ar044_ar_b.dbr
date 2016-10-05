@@ -1,6 +1,7 @@
 of Fallen Skies,
 lootRandomizerJitter = 22.000000, 
 characterOffensiveAbility = 14.05, 18, 21.96, 
+defensivePierce = 6.24, 8, 9.76, 
 levelRequirement = 35, 
 offensiveColdModifier = 13.26, 17, 20.74, 
 offensiveLightningModifier = 13.26, 17, 20.74, 

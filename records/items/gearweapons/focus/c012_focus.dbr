@@ -1,5 +1,7 @@
 Channeling Orb of the Covenant,
 attributeScalePercent = 30.000000, 
 characterManaRegenModifier = 45.5, 65, 84.5, 
+characterOffensiveAbility = 22.4, 32, 41.6, 
+defensiveElementalResistance = 16.8, 24, 31.21, 
 levelRequirement = 72, 
-offensiveChaosModifier = 31.5, 45, 58.5, 
+offensiveChaosModifier = 49, 70, 91, 

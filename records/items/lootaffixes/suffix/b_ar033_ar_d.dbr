@@ -1,5 +1,6 @@
-of Desolation,
+of Scorched Ends,
 lootRandomizerJitter = 15.000000, 
+defensiveChaos = 10.2, 12, 13.8, 
 levelRequirement = 74, 
 offensiveFireModifier = 27.2, 32, 36.8, 
 offensiveSlowFireModifier = 34, 40, 46, 

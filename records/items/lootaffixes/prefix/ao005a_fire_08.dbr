@@ -1,5 +1,5 @@
 Searing,
 lootRandomizerJitter = 10.000000, 
 levelRequirement = 80, 
-offensiveFireMax = 18.91, 21, 23.1, 
-offensiveFireMin = 11.71, 13, 14.3, 
+offensiveFireMax = 14.4, 16, 17.6, 
+offensiveFireMin = 9, 10, 11, 

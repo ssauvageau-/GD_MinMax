@@ -1,6 +1,7 @@
 of the Arcane Blaze,
 lootRandomizerJitter = 15.000000, 
 characterOffensiveAbility = 21.25, 25, 28.75, 
+defensiveLife = 10.2, 12, 13.8, 
 levelRequirement = 70, 
 offensiveAetherModifier = 27.2, 32, 36.8, 
 offensiveFireModifier = 27.2, 32, 36.8, 

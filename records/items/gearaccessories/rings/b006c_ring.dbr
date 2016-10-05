@@ -1,0 +1,6 @@
+Viloth's Ring,
+attributeScalePercent = 20.000000, 
+characterOffensiveAbility = 21.6, 27, 32.4, 
+levelRequirement = 35, 
+offensivePoisonMin = 4.81, 6, 7.2, 
+offensivePoisonModifier = 12, 15, 18, 

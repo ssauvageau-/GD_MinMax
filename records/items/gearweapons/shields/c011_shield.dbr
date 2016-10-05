@@ -1,6 +1,6 @@
 Shield of Perdition,
 attributeScalePercent = 20.000000, 
-characterDefensiveAbility = 28, 35, 42, 
+characterLifeModifier = 2.41, 3, 3.6, 
 defensiveBlock = 406.41, 508, 609.6, 
 defensiveBlockChance = 25.6, 32, 38.4, 
 defensiveBlockModifier = 6.4, 8, 9.6, 

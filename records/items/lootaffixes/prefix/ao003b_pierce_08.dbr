@@ -1,5 +1,5 @@
 Puncturing,
 lootRandomizerJitter = 10.000000, 
 levelRequirement = 80, 
-offensivePierceMax = 31.5, 35, 38.5, 
-offensivePierceMin = 13.5, 15, 16.5, 
+offensivePierceMax = 24.3, 27, 29.71, 
+offensivePierceMin = 11.71, 13, 14.3, 

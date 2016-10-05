@@ -1,7 +1,7 @@
 Unholy Visage of the Covenant,
 attributeScalePercent = 30.000000, 
+characterLife = 196, 280, 364, 
 characterManaRegen = 2.45, 3.5, 4.55, 
 defensiveChaos = 15.4, 22, 28.6, 
 levelRequirement = 72, 
 offensiveChaosModifier = 28, 40, 52, 
-offensiveLifeModifier = 18.2, 26, 33.81, 

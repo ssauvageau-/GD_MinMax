@@ -1,6 +1,7 @@
 of Squalls,
 lootRandomizerJitter = 18.000000, 
 characterOffensiveAbility = 20.5, 25, 29.5, 
+defensiveElementalResistance = 6.57, 8, 9.44, 
 levelRequirement = 60, 
 offensiveLightningModifier = 20.5, 25, 29.5, 
 offensiveSlowLightningModifier = 24.6, 30, 35.4, 

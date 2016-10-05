@@ -1,7 +1,7 @@
 Thunderstruck,
 lootRandomizerJitter = 15.000000, 
 characterOffensiveAbility = 21.25, 25, 28.75, 
-defensiveStun = 13.6, 16, 18.4, 
+defensiveStun = 20.4, 24, 27.6, 
 levelRequirement = 68, 
 offensiveLightningModifier = 22.95, 27, 31.05, 
 offensiveSlowLightningModifier = 25.5, 30, 34.5, 

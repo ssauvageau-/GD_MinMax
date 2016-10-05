@@ -1,6 +1,7 @@
 of Amarasta's Flurry,
 lootRandomizerJitter = 15.000000, 
 characterDexterity = 12.75, 15, 17.25, 
+defensivePierce = 11.9, 14, 16.1, 
 levelRequirement = 68, 
 offensiveColdModifier = 34, 40, 46, 
 offensivePierceModifier = 29.75, 35, 40.25, 

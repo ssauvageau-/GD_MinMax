@@ -1,6 +1,7 @@
 of the Winter Storm,
 lootRandomizerJitter = 15.000000, 
 characterIntelligence = 32.3, 38, 43.7, 
+defensiveElementalResistance = 10.2, 12, 13.8, 
 levelRequirement = 74, 
 offensiveColdModifier = 27.2, 32, 36.8, 
 offensiveSlowColdModifier = 34, 40, 46, 

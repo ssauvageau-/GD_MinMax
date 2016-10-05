@@ -1,0 +1,7 @@
+Scepter of Aldritch,
+attributeScalePercent = 30.000000, 
+defensiveElementalResistance = 15.4, 22, 28.6, 
+levelRequirement = 60, 
+offensiveAetherModifier = 63, 90, 117, 
+offensiveCritDamageModifier = 4.9, 7, 9.1, 
+offensiveLightningModifier = 63, 90, 117, 

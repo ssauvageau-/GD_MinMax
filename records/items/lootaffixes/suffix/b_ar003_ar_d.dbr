@@ -1,6 +1,7 @@
 of Ulzuin's Flame,
 lootRandomizerJitter = 15.000000, 
 characterStrength = 29.75, 35, 40.25, 
+defensiveLife = 15.3, 18, 20.7, 
 levelRequirement = 70, 
 offensiveFireModifier = 27.2, 32, 36.8, 
 offensiveSlowFireModifier = 34, 40, 46, 

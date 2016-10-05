@@ -1,5 +1,5 @@
 Void-Touched,
 lootRandomizerJitter = 10.000000, 
 levelRequirement = 80, 
-offensiveChaosMax = 22.5, 25, 27.51, 
-offensiveChaosMin = 8.1, 9, 9.9, 
+offensiveChaosMax = 18.91, 21, 23.1, 
+offensiveChaosMin = 4.5, 5, 5.5, 

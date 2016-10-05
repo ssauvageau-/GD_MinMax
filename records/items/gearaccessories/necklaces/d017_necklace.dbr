@@ -1,6 +1,7 @@
 Invoker's Shard,
 attributeScalePercent = 30.000000, 
 characterSpellCastSpeedModifier = 4.9, 7, 9.1, 
-defensiveChaos = 10.5, 15, 19.5, 
+defensiveChaos = 17.5, 25, 32.5, 
+defensivePoison = 17.5, 25, 32.5, 
 levelRequirement = 68, 
 offensiveElementalModifier = 22.4, 32, 41.6, 

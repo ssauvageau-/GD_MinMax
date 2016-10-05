@@ -1,5 +1,6 @@
 Unholy Mantle of the Covenant,
 attributeScalePercent = 30.000000, 
-characterDefensiveAbility = 15.4, 22, 28.6, 
+characterDefensiveAbility = 22.4, 32, 41.6, 
+characterLife = 168, 240, 312, 
 defensiveLife = 21, 30, 39, 
 levelRequirement = 72, 

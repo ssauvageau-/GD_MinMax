@@ -1,5 +1,5 @@
 Crushing,
 lootRandomizerJitter = 10.000000, 
 levelRequirement = 80, 
-offensivePhysicalMax = 30.000000, 
-offensivePhysicalMin = 14.000000, 
+offensivePhysicalMax = 20.000000, 
+offensivePhysicalMin = 8.000000, 

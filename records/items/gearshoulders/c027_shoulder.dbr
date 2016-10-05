@@ -1,6 +1,7 @@
 Guardsman's Spaulders,
 attributeScalePercent = 30.000000, 
 characterDefensiveAbility = 28, 40, 52, 
+characterLife = 154, 220, 286, 
 defensiveCold = 42, 60, 78, 
-defensiveFire = 29.4, 42, 54.6, 
+defensiveLife = 17.5, 25, 32.5, 
 levelRequirement = 65, 

@@ -1,6 +1,7 @@
 Glyph of Kelphat'Zoth,
 attributeScalePercent = 30.000000, 
 characterDefensiveAbility = 15.4, 22, 28.6, 
+defensiveElementalResistance = 24.5, 35, 45.5, 
 levelRequirement = 58, 
 offensiveLifeMin = 4.9, 7, 9.1, 
 offensiveLightningMax = 9.1, 13, 16.91, 

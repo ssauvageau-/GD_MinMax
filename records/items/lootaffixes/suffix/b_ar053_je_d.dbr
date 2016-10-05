@@ -1,6 +1,7 @@
 of Destruction,
 lootRandomizerJitter = 15.000000, 
 characterOffensiveAbility = 24.65, 29, 33.35, 
+defensiveElementalResistance = 11.9, 14, 16.1, 
 levelRequirement = 68, 
 offensiveFireModifier = 34, 40, 46, 
 offensiveLightningModifier = 34, 40, 46, 
